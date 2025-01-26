@@ -6,7 +6,7 @@
 
 - ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC member</a>, 2025
 
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024-2025
 
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC member, 2024-2025
 
@@ -24,9 +24,9 @@
 
 ##  <b> Peer-reviewed Journal </b>
 
-- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024
+- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024-2025
 
-- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024
+- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024-2025
 
 - <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021–2024
 
