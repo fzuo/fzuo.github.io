@@ -8,10 +8,10 @@
 
 
 - <h4 id="OS">CMSC4153/5053: Operating Systems</h4>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; 2022S; 2022F; 2023S; 2023F; 2024S; 2024F </p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; 2022S; 2022F; 2023S; 2023F; 2024S; 2024F; 2025S </p>
 
 - <h4 id="DS">CMSC3613: Algorithms & Advanced Data Structures</h4>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; 2023S; 2024S </p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; 2023S; 2024S; 2025S </p>
 
 - <h4 id="P1">CMSC1613: Programming I</h4>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; 2022S; 2022F; 2023S </p>
