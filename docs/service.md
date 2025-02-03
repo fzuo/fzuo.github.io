@@ -1,5 +1,6 @@
 # Service
 
+
 ##  <b> Academic Conference </b>
 
 - IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC member</a>, 2025
@@ -22,11 +23,14 @@
 
 - IEEE Conference on Communications and Network Security (CNS): External Reviewer, 2018
 
+
 ##  <b> Peer-reviewed Journal </b>
 
-- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024-2025
+- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024-present
 
-- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024-2025
+- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024-present
+
+- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Editorial Board Member, 2025-present
 
 - <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021–2024
 
@@ -43,11 +47,11 @@
 
 ## <b> University Service </b>
 
-- Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - )
+- Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - present)
 
 - URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - 07/2025)
 
-- Screening committee of the CS department (01/2023 - )
+- Screening committee of the CS department (01/2023 - present)
 
 - Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
 
