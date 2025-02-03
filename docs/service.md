@@ -26,23 +26,23 @@
 
 ##  <b> Peer-reviewed Journal </b>
 
-- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024-present
+- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024 - present
 
-- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024-present
+- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024 - present
 
-- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Editorial Board Member, 2025-present
+- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Editorial Board Member, 2025 - present
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021–2024
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021 - 2024
 
-- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, Reviewer, 2021–2023
+- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, Reviewer, 2021 - 2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, Reviewer, 2022–2024
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, Reviewer, 2022 - 2024
 
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, Reviewer, 2023
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, Reviewer, 2024
 
-- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, Reviewer, 2024-2025
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, Reviewer, 2024 - 2025
 
 
 ## <b> University Service </b>
