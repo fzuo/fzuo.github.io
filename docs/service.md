@@ -11,38 +11,41 @@
 
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC member, 2024-2025
 
-- International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024
-
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
--  IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
+- International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024
+
+- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
 - IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS): External Reviewer, 2018
 
 - IEEE Conference on Communications and Network Security (CNS): External Reviewer, 2018
 
 
-##  <b> Peer-reviewed Journal </b>
+##  <b> Editorial Board Member / Associate Editor </b>
 
-- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024 - present
+- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, 2024 - present
 
-- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024 - present
+- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, 2024 - present
 
-- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Editorial Board Member, 2025 - present
+- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, 2025 - present
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021 - 2024
 
-- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, Reviewer, 2021 - 2023
+##  <b> Academic Journal Reviewer </b>
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, Reviewer, 2022 - 2024
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2024
 
-- <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, Reviewer, 2023
+- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 
-- <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, Reviewer, 2024
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2024
 
-- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, Reviewer, 2024 - 2025
+- <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
+
+- <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
+
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2025
 
 
 ## <b> University Service </b>
