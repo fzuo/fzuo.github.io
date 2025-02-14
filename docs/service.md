@@ -1,7 +1,7 @@
 # Service
 
 
-##  <b> Academic Conference </b>
+##  <b> International Conference </b>
 
 - IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC member</a>, 2025
 
@@ -15,16 +15,16 @@
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
-- International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024
+- International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
-- IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS): External Reviewer, 2018
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): External Reviewer, 2018
 
 - IEEE Conference on Communications and Network Security (CNS): External Reviewer, 2018
 
 
-##  <b> Editorial Board Member / Associate Editor </b>
+##  <b> Associate Editor / Editorial Board Member </b>
 
 - <a href="https://dl.acm.org/journal/toce">Transactions on Computing Education</a>, ACM, 2024 - present
 

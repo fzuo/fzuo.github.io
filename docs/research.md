@@ -53,7 +53,7 @@
 
 - Xin Zhang, Yuqi Song, Xiaofeng Wang, and **Fei Zuo**. "D-score: A white-box diagnosis score for CNNs based on mutation operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), Shenyang, China, 2023 <font size="2"><strong>[\[Link\]](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24)</strong></font> 
 
-- Junghwan Rhee, Myung-Ah Park, **Fei Zuo**, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident response-focused cybersecurity undergraduate curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7, pp. 65–74. 2023 <font size="2"><strong>[\[Link\]](https://dl.acm.org/doi/pdf/10.5555/3606431.3606438)</strong></font> 
+- Junghwan Rhee, Myung-Ah Park, **Fei Zuo**, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing incident response-focused cybersecurity undergraduate curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7, pp. 65–74. 2023 <font size="2"><strong>[\[Link\]](https://dl.acm.org/doi/pdf/10.5555/3606431.3606438)</strong></font> 
 
 ## Earlier Publications
 
