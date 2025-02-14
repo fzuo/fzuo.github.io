@@ -67,6 +67,6 @@
 
 - **Fei Zuo**, Bokai Yang, Xiaopeng Li, Qiang Zeng, and Lannan Luo. "Exploiting the inherent limitation of L0 adversarial examples", The 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Beijing, China, 2019
 
-- **Fei Zuo**, Xiaopeng Li, Patrick Young, Lannan Luo, Qiang Zeng, and Zhexin Zhang. "Neural machine translation inspired binary code similarity comparison beyond function pairs", The 26th Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2019
+- **Fei Zuo**, Xiaopeng Li, Patrick Young, Lannan Luo, Qiang Zeng, and Zhexin Zhang. "Neural machine translation inspired binary code similarity comparison beyond function pairs", The 26th Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2019 (*\*This paper ranks as top 15* [*most citated paper*](https://scholar.google.com/citations?hl=en&vq=eng_computersecuritycryptography&view_op=list_hcore&venue=q2FcImd5qbgJ.2024) *of NDSS from 2019 to 2024*)
 
 - Jianzhong Qi, **Fei Zuo**, Hanan Samet, and Jia Cheng Yao. "K-regret queries using multiplicative utility functions", ACM Transactions on Database Systems (TODS), vol 43, No. 2, pp. 1-41. 2018
