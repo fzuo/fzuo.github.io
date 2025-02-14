@@ -26,11 +26,11 @@
 
 ##  <b> Editorial Board Member / Associate Editor </b>
 
-- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, 2024 - present
+- <a href="https://dl.acm.org/journal/toce">Transactions on Computing Education</a>, ACM, 2024 - present
 
-- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, 2024 - present
+- <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, ACM, 2024 - present
 
-- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, 2025 - present
+- <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Elsevier, 2025 - present
 
 
 ##  <b> Academic Journal Reviewer </b>
