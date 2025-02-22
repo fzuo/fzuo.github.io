@@ -9,13 +9,15 @@
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024-2025
 
+- International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC member, 2025
+
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC member, 2024-2025
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
-- International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
+- International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
@@ -39,7 +41,7 @@
 
 - <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2024
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2025
 
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
