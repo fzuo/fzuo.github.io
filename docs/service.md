@@ -1,7 +1,7 @@
 # Service
 
 
-##  <b> International Conference </b>
+##  <b> Academic Conference </b>
 
 - IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC member</a>, 2025
 
@@ -35,7 +35,7 @@
 - <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Elsevier, 2025 - present
 
 
-##  <b> Academic Journal Reviewer </b>
+##  <b> International Journal Reviewer </b>
 
 - <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2024
 
