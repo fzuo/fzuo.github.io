@@ -53,7 +53,7 @@ I am the graduate program director at the department of computer science. If you
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your groundbreaking research.
+- I will serve on the program committee of ACSAC'25. Please consider submitting your groundbreaking research.
 
 - Building on the success of last year, the 2nd International Workshop on Edge Intelligence and Vehicular Networks will be held in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a>. We look forward to seeing you in Chicago this October.
 

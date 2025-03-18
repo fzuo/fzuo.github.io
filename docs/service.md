@@ -11,6 +11,8 @@
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC member, 2025
 
+- Annual Computer Security Applications Conference (ACSAC): TPC member, 2025
+
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC member, 2024-2025
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
