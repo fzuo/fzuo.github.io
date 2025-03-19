@@ -3,17 +3,19 @@
 
 ##  <b> Academic Conference </b>
 
-- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC member</a>, 2025
+- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
 
-- ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC member</a>, 2025
+- ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC Member</a>, 2025
 
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024-2025
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC Member</a>, 2024-2025
 
-- International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC member, 2025
+- International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC Member, 2025
 
-- Annual Computer Security Applications Conference (ACSAC): TPC member, 2025
+- ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Registration Chair, 2025
 
-- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC member, 2024-2025
+- Annual Computer Security Applications Conference (ACSAC): TPC Member, 2025
+
+- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC Member, 2024-2025
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
@@ -21,7 +23,7 @@
 
 - International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
-- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
+- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC Member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): External Reviewer, 2018
 
