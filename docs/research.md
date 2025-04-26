@@ -1,9 +1,14 @@
 # Research
 
-## 2025
+## 2025 :pushpin: 
+
+- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", The 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025
 
 - Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, CO, 2025
 
+- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, NV, 2025
+
+- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, NV, 2025
 
 ## 2024
 

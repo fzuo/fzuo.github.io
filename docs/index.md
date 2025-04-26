@@ -5,6 +5,8 @@
 /git_projects/fzuo$ git push origin main
 
 mkdocs serve
+
+:military_medal: 
 -->
 
 <table>
@@ -49,11 +51,11 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 <br>
 I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
-## News and Ads
+## News and Ads :mega:
 
-- Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
+- I will serve on the steering committee of ACM SIGCITE'25, which will be held in Sacramento, CA, on November 6th-8th. 
 
-- I will serve on the program committee of ACSAC'25. Please consider submitting your groundbreaking research.
+- I will serve on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
 
 - Building on the success of last year, the 2nd International Workshop on Edge Intelligence and Vehicular Networks will be held in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a>. We look forward to seeing you in Chicago this October.
 
@@ -101,6 +103,8 @@ I am the graduate program director at the department of computer science. If you
 - <a href="/service/">... More ...</a>
 
 I am also an active reviewer for multiple academic journals, and currently serving on the editorial boards of two ACM journals.
+
+Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
 - <a href="https://www.eurekaselect.com/journal/115">International Journal of Sensors, Wireless Communications and Control</a>, Reviewer, 2024
  -->

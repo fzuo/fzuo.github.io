@@ -3,7 +3,7 @@
 
 ##  <b> Academic Conference </b>
 
-- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
+- ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Registration Chair, 2025
 
 - ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC Member</a>, 2025
 
@@ -11,7 +11,7 @@
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC Member, 2025
 
-- ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Registration Chair, 2025
+- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
 
 - Annual Computer Security Applications Conference (ACSAC): TPC Member, 2025
 
@@ -30,7 +30,7 @@
 - IEEE Conference on Communications and Network Security (CNS): External Reviewer, 2018
 
 
-##  <b> Associate Editor / Editorial Board Member </b>
+##  <b> Associate Editor / Editorial Board Member </b> :military_medal:
 
 - <a href="https://dl.acm.org/journal/toce">Transactions on Computing Education</a>, ACM, 2024 - present
 

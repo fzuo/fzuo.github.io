@@ -1,7 +1,7 @@
 # Contact Me
 
 ```
-Email: fzuo (at) uco.edu
+✉️ fzuo (at) uco.edu
 
 Mail Address:
 Dr. Fei Zuo
