@@ -88,7 +88,7 @@ Republican_Party_presidential_primaries_results,_2016.svg
       font: bold 30px sans-serif;
     }
     .Rrrrr {
-      font: italic 22px serif;
+      font: italic 20px serif;
       fill: black;
     }
   </style>
