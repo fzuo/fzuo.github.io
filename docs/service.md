@@ -11,7 +11,7 @@
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC Member, 2025
 
-- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
+- International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
 - Annual Computer Security Applications Conference (ACSAC): TPC Member, 2025
 
@@ -21,7 +21,7 @@
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
-- International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
+- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
 
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC Member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
