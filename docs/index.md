@@ -53,7 +53,7 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I will serve on the steering committee of ACM SIGCITE'25, which will be held in Sacramento, CA, on November 6th-8th. 
+- I will serve on the steering committee of ACM SIGCITE'25, which will be held on Nov. 6-8, in Sacramento, CA. 
 
 - I will serve on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
 
