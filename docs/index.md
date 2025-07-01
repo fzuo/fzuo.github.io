@@ -53,9 +53,9 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I will serve on the steering committee of ACM SIGCITE'25, which will be held on Nov. 6-8, in Sacramento, CA. 
+- I am serving on the steering committee of ACM SIGCITE'25, which will be held on Nov. 6-8, in Sacramento, CA. 
 
-- I will serve on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
+- I am serving on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
 
 - Building on the success of last year, the 2nd International Workshop on Edge Intelligence and Vehicular Networks will be held in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a>. We look forward to seeing you in Chicago this October.
 
@@ -66,7 +66,7 @@ I am the graduate program director at the department of computer science. If you
 
 - Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 
-- I received the RCSA travel grant for conference participations, 08/2024.
+- Received the RCSA travel grant for conference participations, 08/2024.
 
 - Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas (May 20-23, 2024).
 
