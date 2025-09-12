@@ -21,7 +21,7 @@
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
-- Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC SC): Reviewer, 2025
+- Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
 - IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
 
@@ -43,7 +43,7 @@
 
 ##  <b> International Journal Reviewer </b>
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2024
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2025
 
 - <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 

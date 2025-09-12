@@ -4,11 +4,15 @@
 
 - **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", The 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025
 
-- Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, CO, 2025
+- **Fei Zuo**, Gang Qian, Xianshan Qu, Junghwan Rhee, and Jicheng Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", The 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025
 
-- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, NV, 2025
+- Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
 
-- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, NV, 2025
+- **Fei Zuo**, Junghwan Rhee, Shuaibing Lu, Yuqi Song, and Xin Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
+
+- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, USA, 2025
+
+- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, USA, 2025
 
 ## 2024
 
@@ -32,7 +36,7 @@
 
 - Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and **Fei Zuo**. "Revising the problem of partial labels from the perspective of CNNs' robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 
 
-- Yuqi Song, Xin Zhang, Bokai Yang, **Fei Zuo** and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/A_Robust_Attention-based_Convolutional_Neural_Network_for_Monocular_Depth_Estimation.pdf)
+- Yuqi Song, Xin Zhang, Bokai Yang, **Fei Zuo** and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
 
 - Suhan Jiang, Jie Wu and **Fei Zuo**. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
 
