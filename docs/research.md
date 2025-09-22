@@ -8,6 +8,10 @@
 
 - Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
 
+- Xin Zhang, Yuqi Song, and **Fei Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", The 12th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud), New York City, USA, 2025
+
+- Huan Bui, Chenglong Fu, and **Fei Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", The 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025
+
 - **Fei Zuo**, Junghwan Rhee, Shuaibing Lu, Yuqi Song, and Xin Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
 
 - Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, USA, 2025
