@@ -8,15 +8,15 @@
 
 - Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
 
-- Xin Zhang, Yuqi Song, and **Fei Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", The 12th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud), New York City, USA, 2025
+- Xin Zhang, Yuqi Song, and **Fei Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", The 12th IEEE International Conference on Cyber Security and Cloud Computing, New York City, USA, 2025
 
 - Huan Bui, Chenglong Fu, and **Fei Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", The 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025
 
 - **Fei Zuo**, Junghwan Rhee, Shuaibing Lu, Yuqi Song, and Xin Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
 
-- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, USA, 2025
+- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
 
-- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Las Vegas, USA, 2025
+- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", The 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
 
 ## 2024
 
@@ -36,33 +36,33 @@
 
 - Josiah Scott, **Fei Zuo**, and Junghwan Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715618) 
 
-- Xianshan Qu, **Fei Zuo**, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Context_Matters_Investigating_Its_Impact_on_ChatGPTs_Bug_Fixing_Performance.pdf)
+- Xianshan Qu, **Fei Zuo**, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Context_Matters_Investigating_Its_Impact_on_ChatGPTs_Bug_Fixing_Performance.pdf)
 
-- Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and **Fei Zuo**. "Revising the problem of partial labels from the perspective of CNNs' robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 
+- Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and **Fei Zuo**. "Revising the problem of partial labels from the perspective of CNNs' robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 
 
-- Yuqi Song, Xin Zhang, Bokai Yang, **Fei Zuo** and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
+- Yuqi Song, Xin Zhang, Bokai Yang, **Fei Zuo** and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
 
-- Suhan Jiang, Jie Wu and **Fei Zuo**. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
+- Suhan Jiang, Jie Wu and **Fei Zuo**. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
 
-- Aakankshya Shrestha, **Fei Zuo**, Gang Qian and Junghwan Rhee. "A survey and insights on modern game development processes for software engineering education", The 33rd International Conference on Software Engineering and Data Engineering (SEDE), San Diego, CA, 2024
+- Aakankshya Shrestha, **Fei Zuo**, Gang Qian and Junghwan Rhee. "A survey and insights on modern game development processes for software engineering education", The 33rd International Conference on Software Engineering and Data Engineering, San Diego, CA, 2024
 
 ## 2023
 
 - **Fei Zuo**, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), Marietta, GA, 2023 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3585059.3611416)
 
-- **Fei Zuo**, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: Security patch detection in open source software via Transformer", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Orlando, FL, 2023 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf)
+- **Fei Zuo**, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: Security patch detection in open source software via Transformer", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf)
 
-- **Fei Zuo**, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Orlando, FL, 2023 
+- **Fei Zuo**, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
 - **Fei Zuo**, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5, pp. 43–52, 2023 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3637068.3637072)
 
 - Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, **Fei Zuo**, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023 (*\*This paper ranks as one of* [*the most downloaded articles*](https://link.springer.com/journal/44227/updates/27329374) *in IJNDC from 2021 to 2023*) [:page_facing_up:](https://link.springer.com/article/10.1007/s44227-023-00014-9)
 
-- Suhan Jiang, Jie Wu, **Fei Zuo**, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Orlando, FL, 2023 
+- Suhan Jiang, Jie Wu, **Fei Zuo**, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
-- Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, **Fei Zuo**, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Orlando, FL, 2023 
+- Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, **Fei Zuo**, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
-- Xin Zhang, Yuqi Song, **Fei Zuo**, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Orlando, FL, 2023
+- Xin Zhang, Yuqi Song, **Fei Zuo**, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023
 
 - Xin Zhang, Yuqi Song, Xiaofeng Wang, and **Fei Zuo**. "D-score: A white-box diagnosis score for CNNs based on mutation operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), Shenyang, China, 2023 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24) 
 
