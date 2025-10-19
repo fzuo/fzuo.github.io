@@ -60,7 +60,7 @@
 
 - Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - present)
 
-- URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - 07/2025)
+- URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - present)
 
 - Screening committee of the CS department (01/2023 - present)
 

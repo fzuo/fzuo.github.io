@@ -53,20 +53,22 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I am serving on the steering committee of ACM SIGCITE'25, which will be held on Nov. 6-8, in Sacramento, CA. 
+- I am serving on the steering committee of ACM SIGCITE (formerly SIGITE). We look forward to seeing you this November in Sacramento, CA.
 
-- I am serving on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
-
-- Building on the success of last year, the 2nd International Workshop on Edge Intelligence and Vehicular Networks will be held in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a>. We look forward to seeing you in Chicago this October.
+- I am awarded a travel grant from NSF CISE RE Aspiring PI Workshop, which will be held on December 18-19 in Miami, FL.
 
 
 ## Past Activities
+
+- Successfully organized the 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> at Chicago, U.S. (Oct. 6-8, 2025).
+
+- Received the RCSA travel grant for conference participations, Sep 2025.
 
 - Visited Flagstaff, Arizona, and presented our work at the 33rd CCSC Rocky Mountain Conference (Oct. 18-19, 2024).
 
 - Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 
-- Received the RCSA travel grant for conference participations, 08/2024.
+- Received the RCSA travel grant for conference participations, Aug 2024.
 
 - Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas (May 20-23, 2024).
 
@@ -75,6 +77,8 @@ I am the graduate program director at the department of computer science. If you
 - Delivered a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, 10/2023.
 
 <!-- Our research work has been selected to present for the 
+
+- I am serving on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
 
 - Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a> as an associate editor, 09/2024.
 
