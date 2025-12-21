@@ -3,19 +3,23 @@
 
 ##  <b> Academic Conference </b>
 
+- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
+
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm): PC Member, 2026
+
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Registration Chair, 2025
 
-- ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC Member</a>, 2025
+- ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">PC Member</a>, 2025
 
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC Member</a>, 2024-2025
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">PC Member</a>, 2024-2025
 
-- International Conference on Artificial Intelligence Applications and Innovations (AIAI): TPC Member, 2025
+- International Conference on Artificial Intelligence Applications and Innovations (AIAI): PC Member, 2025
 
 - International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
-- Annual Computer Security Applications Conference (ACSAC): TPC Member, 2025
+- Annual Computer Security Applications Conference (ACSAC): PC Member, 2025
 
-- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): TPC Member, 2024-2025
+- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): PC Member, 2024-2025
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
@@ -23,9 +27,9 @@
 
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
-- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC Member</a>, 2025
+- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">PC Member</a>, 2025
 
-- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC Member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
+- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): PC Member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): External Reviewer, 2018
 
