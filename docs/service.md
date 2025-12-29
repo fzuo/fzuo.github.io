@@ -2,7 +2,7 @@
 
 ##  <b> Academic Conference </b>
 
-** Program Committee **
+<b> Program Committee </b>
 
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026
 
@@ -23,7 +23,7 @@
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2022-2025
 
 
-** Organizing Role **
+<b> Organizing Role </b>
 
 - EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
 
@@ -34,7 +34,7 @@
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
 
-** Reviewer and Other Roles **
+<b> Reviewer and Other Roles </b>
 
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
