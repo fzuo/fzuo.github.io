@@ -2,9 +2,9 @@
 
 ## 2025 :pushpin: 
 
-- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", The 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025
+- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", The 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025 [:page_facing_up:](https://ieeexplore.ieee.org/document/11126786)
 
-- **Fei Zuo**, Gang Qian, Xianshan Qu, Junghwan Rhee, and Jicheng Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", The 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025
+- **Fei Zuo**, Gang Qian, Xianshan Qu, Junghwan Rhee, and Jicheng Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", The 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3769694.3771150)
 
 - Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
 

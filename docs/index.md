@@ -53,9 +53,11 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I will serve as the PC co-chair of MobiCASE'26. We look forward to receiving your high-quality submissions.
+- I will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
 
-- I have been invited to join the program committee of SecureComm'26. Please consider submitting your groundbreaking research.
+- I am invited to join the program committee of EAI SecureComm'26. Please submit your groundbreaking research.
+
+- I am invited to join the program committee of IEEE Globecom'26. Please submit your groundbreaking research.
 
 
 ## Past Activities

@@ -1,35 +1,46 @@
 # Service
 
-
 ##  <b> Academic Conference </b>
+
+** Program Committee **
+
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026
+
+- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
+
+- International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2025
+
+- International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025
+
+- Annual Computer Security Applications Conference (ACSAC), 2025
+
+- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec), 2024-2025
+
+- IEEE Global Communications Conference (Globecom), 2026
+
+- IEEE European Symposium on Security and Privacy (<a href="https://eurosp2025.ieee-security.org/">EuroS&P</a>), 2025
+
+- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2022-2025
+
+
+** Organizing Role **
 
 - EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
 
-- EAI International Conference on Security and Privacy in Communication Networks (SecureComm): PC Member, 2026
-
-- ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Registration Chair, 2025
-
-- ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">PC Member</a>, 2025
-
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">PC Member</a>, 2024-2025
-
-- International Conference on Artificial Intelligence Applications and Innovations (AIAI): PC Member, 2025
+- ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
 - International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
 
-- Annual Computer Security Applications Conference (ACSAC): PC Member, 2025
+- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
-- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): PC Member, 2024-2025
 
-- Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
-
-- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
+** Reviewer and Other Roles **
 
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
-- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">PC Member</a>, 2025
+- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
-- IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): PC Member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
+- Annual Consortium for Computing Sciences in Colleges Southeastern Conference (<a href="http://www.ccscse.org/conference.php?year=37th">CCSC SE</a>): Reviewer & Session Presider, 2023
 
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): External Reviewer, 2018
 
@@ -47,7 +58,7 @@
 
 ##  <b> International Journal Reviewer </b>
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2025
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2026
 
 - <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 
@@ -57,7 +68,7 @@
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
-- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2025
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2026
 
 
 ## <b> University Service </b>
