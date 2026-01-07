@@ -6,11 +6,13 @@
 
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026
 
-- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
+- International Conference on Security and Cryptography (SECRYPT), 2026
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2025
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025
+
+- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
 
 - Annual Computer Security Applications Conference (ACSAC), 2025
 
@@ -24,8 +26,6 @@
 
 
 <b> Organizing Role </b>
-
-- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
 
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
@@ -82,5 +82,4 @@
 - Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
 
 - Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
-
 

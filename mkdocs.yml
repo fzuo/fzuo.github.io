@@ -55,7 +55,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: Copyright &copy; 2024-2025 Fei Zuo
+copyright: Copyright &copy; 2024-2026 Fei Zuo
 
 extra_css:
     - map/map.css

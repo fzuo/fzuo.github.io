@@ -53,11 +53,10 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
-
-- I am invited to join the program committee of EAI SecureComm'26. Please submit your groundbreaking research.
-
-- I am invited to join the program committee of IEEE Globecom'26. Please submit your groundbreaking research.
+- Have been invited to join the program committees of the following conferences:<br>
+<span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/"> SECRYPT'26</a>;
+<span style="color:darkblue;">&#9733;</span> <a href="https://securecomm.eai-conferences.org/2026/">SecureComm'26</a>;
+<span style="color:darkblue;">&#9733;</span> Globecom'26.
 
 
 ## Past Activities
@@ -73,42 +72,40 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
-<li style="margin:0; margin-bottom:5px;">Travel award from  <a href="https://cise-re-wkshp-2025.cs.fiu.edu/">NSF CISE Research Expansion Aspiring PI Workshop</a>, which was held at Miami, FL (Dec. 18-19, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Travel award from  <a href="https://cise-re-wkshp-2025.cs.fiu.edu/">NSF CISE Research Expansion Aspiring PI Workshop</a>, which was held in Miami, FL (Dec. 18-19, 2025).</li>
 
 <li style="margin:0; margin-bottom:5px;">Successfully organized the 26th ACM SIGCITE annual conference as a steering committee member, in Sacramento, CA (Nov. 6-8, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized the 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> at Chicago, U.S. (Oct. 6-8, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized the 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> in Chicago, U.S. (Oct. 6-8, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant for conference participations, Sep 2025.</li>
+<li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant for conference participations, Sep. 2025.</li>
 
 <li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at the 33rd CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> in Seoul, South Korea (Sep. 23-25, 2024).</li>
 
-<li style="margin:0; margin-bottom:5px;">Received the RCSA travel grant for conference participations, Aug 2024.</li>
+<li style="margin:0; margin-bottom:5px;">Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Sep. 2024.</li>
 
-<li style="margin:0; margin-bottom:5px;">Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>, which was co-organized with the 3rd OAK Supercomputing Conference at Wichita, Kansas (May 20-23, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Received the RCSA travel grant for conference participations, Aug. 2024.</li>
 
-<li style="margin:0; margin-bottom:5px;">Research work was presented during the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO, 03/2024.</li>
+<li style="margin:0; margin-bottom:5px;">Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>, which was co-organized with the 3rd OAK Supercomputing Conference in Wichita, Kansas (May 20-23, 2024).</li>
 
-<li style="margin:0; margin-bottom:5px;">Delivered a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, 10/2023.</li>
+<li style="margin:0; margin-bottom:5px;">Joined the editorial board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, May 2024.</li>
+
+<li style="margin:0; margin-bottom:5px;">Research work was presented during the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO, Mar. 2024.</li>
+
+<li style="margin:0; margin-bottom:5px;">Delivered a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.</li>
 </ul>
 </div>
 
 
-<!-- Our research work has been selected to present for the 
-
-- I am serving on the program committee of ACSAC'25 and RAID'25. Please consider submitting your groundbreaking research.
-
-- Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a> as an associate editor, 09/2024.
-
-- Joined the editorial board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor, 05/2024.
--->
-
-
-
-
 <!--
+
+- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
+
+- Will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
+
+- We will continue to organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
 ## Teaching
 
@@ -128,8 +125,6 @@ I am the graduate program director at the department of computer science. If you
   Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
 - ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/service/">... More ...</a>
-
-I am also an active reviewer for multiple academic journals, and currently serving on the editorial boards of two ACM journals.
 
 Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
