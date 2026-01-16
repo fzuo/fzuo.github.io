@@ -27,6 +27,8 @@
 
 <b> Organizing Role </b>
 
+- ACM Virtual Global Computing Education Conference (SIGCSE Virtual): Tutorials Co-Chair, 2026
+
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
 - International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2025
