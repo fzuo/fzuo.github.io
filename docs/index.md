@@ -55,10 +55,12 @@ I am the graduate program director at the department of computer science. If you
 
 - Will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
+- Will serve as Technical Program Chair of EAI MobiCASE 2026. Please submit your innovative work.
+
 - Have been invited to join the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/"> SECRYPT'26</a>;
+<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>;
 <span style="color:darkblue;">&#9733;</span> <a href="https://securecomm.eai-conferences.org/2026/">SecureComm'26</a>;
-<span style="color:darkblue;">&#9733;</span> Globecom'26.
 
 
 ## Past Activities

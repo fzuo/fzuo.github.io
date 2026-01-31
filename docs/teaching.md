@@ -10,7 +10,10 @@
 <img src="../pics/secure-system-administration.png" width="134" height="134" border=0 alt=""> </img>
 
 - <h4 id="OS">CMSC4153/5053: Operating Systems</h4>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; Spring&Fall 2022; Spring&Fall 2023; Spring&Fall 2024; Spring&Fall 2025</p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; Spring&Fall 2022; Spring&Fall 2023; Spring&Fall 2024; Spring&Fall 2025; Spring 2026</p>
+
+- <h4 id="Ethics">CMSC 4401/5401: Ethics in Computing</h4>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; Spring 2026</p>
 
 - <h4 id="DS">CMSC3613: Algorithms & Advanced Data Structures</h4>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; Spring 2023; Spring 2024; Spring 2025</p>

@@ -12,13 +12,15 @@
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025
 
+- International Conference on Engineering Applications of Neural Networks (EANN), 2025
+
 - ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
 
 - Annual Computer Security Applications Conference (ACSAC), 2025
 
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec), 2024-2025
 
-- IEEE Global Communications Conference (Globecom), 2026
+- IEEE Global Communications Conference (GLOBECOM), 2026
 
 - IEEE European Symposium on Security and Privacy (<a href="https://eurosp2025.ieee-security.org/">EuroS&P</a>), 2025
 
@@ -26,6 +28,8 @@
 
 
 <b> Organizing Role </b>
+
+- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Technical Program Chair, 2026
 
 - ACM Virtual Global Computing Education Conference (SIGCSE Virtual): Tutorials Co-Chair, 2026
 
@@ -64,7 +68,7 @@
 
 - <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2025
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2026
 
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
