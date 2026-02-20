@@ -10,9 +10,9 @@
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2025
 
-- International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025
+- International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025-2026
 
-- International Conference on Engineering Applications of Neural Networks (EANN), 2025
+- International Conference on Engineering Applications of Neural Networks (EANN), 2025-2026
 
 - ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
 
@@ -28,8 +28,6 @@
 
 
 <b> Organizing Role </b>
-
-- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Technical Program Chair, 2026
 
 - ACM Virtual Global Computing Education Conference (SIGCSE Virtual): Tutorials Co-Chair, 2026
 
@@ -61,6 +59,7 @@
 
 - <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Elsevier, 2025 - present
 
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Elsevier, 2026 - present
 
 ##  <b> International Journal Reviewer </b>
 
