@@ -55,14 +55,18 @@ I am the graduate program director at the department of computer science. If you
 
 - Will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
+- Have been invited to serve NSF as a primary panelist.
+
 - Have been invited to join the editorial board of Future Generation Computer Systems. 
 
 - Have been invited to join the program committees of the following conferences:<br>
-<span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/"> SECRYPT'26</a>;
-<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>;
-<span style="color:darkblue;">&#9733;</span> <a href="https://securecomm.eai-conferences.org/2026/">SecureComm'26</a>;
-<span style="color:darkblue;">&#9733;</span> <a href="https://ifipaiai.org/2026/">AIAI'26</a>;
-<span style="color:darkblue;">&#9733;</span> <a href="https://eannconf.org/2026/">EAAAI'26</a>;
+<span style="color:darkblue;">&#9733;</span> ACSAC'26,
+<span style="color:darkblue;">&#9733;</span> <a href="https://raid2026.org/">RAID'26</a>,
+<span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/">SECRYPT'26</a>,
+<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>,
+<span style="color:darkblue;">&#9733;</span> SecureComm'26,
+<span style="color:darkblue;">&#9733;</span> <a href="https://ifipaiai.org/2026/">AIAI'26</a>,
+<span style="color:darkblue;">&#9733;</span> <a href="https://eannconf.org/2026/">EAAAI'26</a>
 
 
 ## Past Activities
@@ -103,6 +107,15 @@ I am the graduate program director at the department of computer science. If you
 <li style="margin:0; margin-bottom:5px;">Delivered a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.</li>
 </ul>
 </div>
+
+
+
+<br>
+<br>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=N3fZsE8tSmmgPaDs2mxSyEqYiIlz7AHJpPDRW4Jrli0&cl=ffffff&w=a"></script>
+
+
 
 
 <!--

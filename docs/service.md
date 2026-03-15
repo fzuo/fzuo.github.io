@@ -8,7 +8,7 @@
 
 - International Conference on Security and Cryptography (SECRYPT), 2026
 
-- International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2025
+- International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2026
 
 - International Conference on Artificial Intelligence Applications and Innovations (AIAI), 2025-2026
 
@@ -16,7 +16,7 @@
 
 - ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
 
-- Annual Computer Security Applications Conference (ACSAC), 2025
+- Annual Computer Security Applications Conference (ACSAC), 2025-2026
 
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec), 2024-2025
 
@@ -29,7 +29,7 @@
 
 <b> Organizing Role </b>
 
-- ACM Virtual Global Computing Education Conference (SIGCSE Virtual): Tutorials Co-Chair, 2026
+- ACM Virtual Global Computing Education Conference (SIGCSE Virtual): Program Committee & Tutorials Co-Chair, 2026
 
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
@@ -42,7 +42,7 @@
 
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
-- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
+- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025, 2026
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (<a href="http://www.ccscse.org/conference.php?year=37th">CCSC SE</a>): Reviewer & Session Presider, 2023
 
@@ -75,7 +75,6 @@
 
 - <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2026
 
-
 ## <b> University Service </b>
 
 - Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - present)
@@ -88,3 +87,6 @@
 
 - Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
 
+## <b> Other Service </b>
+
+National Science Foundation Panel: 2026
