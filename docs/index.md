@@ -108,15 +108,11 @@ I am the graduate program director at the department of computer science. If you
 </ul>
 </div>
 
-
-
-<br>
 <br>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=N3fZsE8tSmmgPaDs2mxSyEqYiIlz7AHJpPDRW4Jrli0&cl=ffffff&w=a"></script>
-
-
-
+<div class="visitor-map">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=N3fZsE8tSmmgPaDs2mxSyEqYiIlz7AHJpPDRW4Jrli0&cl=ffffff&w=240"></script>
+</div>
 
 <!--
 
@@ -134,18 +130,6 @@ I am the graduate program director at the department of computer science. If you
 
 - <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
 
-## Recent Publication
-
-- Vulnerability discovery based on source code patch commit mining: A systematic literature review (Int. J. Inf. Secur. 2024) 
-- Seeing is believing: Extracting semantic information from video for verifying IoT events (WiSec 2024) 
-- A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program (SIGITE 2023)
-- D-score: A white-box diagnosis score for CNNs based on mutation operators (ADMA 2023)
-- <a href="/research/">... More ...</a>
-  Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
-- ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
-- <a href="/service/">... More ...</a>
-
 Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- <a href="https://www.eurekaselect.com/journal/115">International Journal of Sensors, Wireless Communications and Control</a>, Reviewer, 2024
  -->

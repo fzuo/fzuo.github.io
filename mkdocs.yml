@@ -59,6 +59,7 @@ copyright: Copyright &copy; 2024-2026 Fei Zuo
 
 extra_css:
     - map/map.css
+    - stylesheets/extra.css
 
 extra:
   generator: false
