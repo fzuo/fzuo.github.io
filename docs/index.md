@@ -47,7 +47,8 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-My main research interest is <b>System and Software Security</b>, with a focus on applying new advances in AI to address various cybersecurity challenges, including but not limited to software analysis, system provenance, and mobile computing. I additionally work on adversarial learning and deep learning.<br>
+My main research interest is Cybersecurity and Artificial Intelligence. I am also active in the computing education research community and am involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
+<br>
 <br>
 I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
@@ -56,8 +57,6 @@ I am the graduate program director at the department of computer science. If you
 - Will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
 - Have been invited to serve NSF as a primary panelist.
-
-- Have been invited to join the editorial board of Future Generation Computer Systems. 
 
 - Have been invited to join the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
@@ -121,6 +120,10 @@ I am the graduate program director at the department of computer science. If you
 - Will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
 
 - We will continue to organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
+
+with a focus on applying new advances in AI to address various cybersecurity challenges, including but not limited to software analysis, system provenance, and mobile computing
+
+- Have been invited to join the editorial board of Future Generation Computer Systems. 
 
 ## Teaching
 
