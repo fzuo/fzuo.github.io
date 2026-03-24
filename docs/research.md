@@ -4,6 +4,8 @@
 
 - **Fei Zuo**, Gang Qian, Fang Li, Yuqi Song, and Xin Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
 
+- Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
+
 
 ## 2025  
 

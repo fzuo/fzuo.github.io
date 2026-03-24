@@ -56,16 +56,14 @@ I am the graduate program director at the department of computer science. If you
 
 - Will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
-- Have been invited to serve NSF as a primary panelist.
-
 - Have been invited to join the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
 <span style="color:darkblue;">&#9733;</span> <a href="https://raid2026.org/">RAID'26</a>,
 <span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/">SECRYPT'26</a>,
 <span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>,
 <span style="color:darkblue;">&#9733;</span> SecureComm'26,
-<span style="color:darkblue;">&#9733;</span> <a href="https://ifipaiai.org/2026/">AIAI'26</a>,
-<span style="color:darkblue;">&#9733;</span> <a href="https://eannconf.org/2026/">EAAAI'26</a>
+<span style="color:darkblue;">&#9733;</span> AIAI'26,
+<span style="color:darkblue;">&#9733;</span> EAAAI'26
 
 
 ## Past Activities
