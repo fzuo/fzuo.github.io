@@ -47,14 +47,16 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-My main research interest is Cybersecurity and Artificial Intelligence. I am also active in the computing education research community and am involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
+My main research interest is Cybersecurity and Artificial Intelligence. I am also active in the computing education research community and have been involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
 <br>
 <br>
 I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
 ## News and Ads :mega:
 
-- Will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
+- I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
+
+- I will visit Springfield, MO, and Lake Charles, LA, in April to attend the Annual CCSC Central Plains and South Central Region Conferences, respectively.
 
 - Have been invited to join the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
@@ -62,9 +64,7 @@ I am the graduate program director at the department of computer science. If you
 <span style="color:darkblue;">&#9733;</span> <a href="https://raid2026.org/">RAID'26</a>,
 <span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/">SECRYPT'26</a>,
 <span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>,
-<span style="color:darkblue;">&#9733;</span> SecureComm'26,
-<span style="color:darkblue;">&#9733;</span> AIAI'26,
-<span style="color:darkblue;">&#9733;</span> EAAAI'26
+<span style="color:darkblue;">&#9733;</span> SecureComm'26
 
 
 ## Past Activities
