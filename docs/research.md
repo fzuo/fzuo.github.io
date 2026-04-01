@@ -8,6 +8,8 @@
 
 - Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", The 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
+- Tianyi Li, Haotian Chi, **Fei Zuo**, Zhihui Liu, Jinpeng Li, and Shunrong Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", The 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
+
 
 ## 2025
 
