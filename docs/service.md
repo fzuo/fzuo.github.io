@@ -14,7 +14,7 @@
 
 - International Conference on Engineering Applications of Neural Networks (EANN), 2025-2026
 
-- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025, 2027
+- ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2025, 2027
 
 - Annual Computer Security Applications Conference (ACSAC), 2025-2026
 
@@ -78,7 +78,7 @@
 
 ## <b> Review Panel</b>
 
-National Science Foundation: 2026(×2)
+- National Science Foundation: 2026(×2)
 
 
 ## <b> University Service </b>
