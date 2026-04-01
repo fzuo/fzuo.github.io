@@ -14,7 +14,7 @@
 
 - International Conference on Engineering Applications of Neural Networks (EANN), 2025-2026
 
-- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025
+- ACM ASIA Conference on Computer and Communications Security (<a href="https://asiaccs2025.hust.edu.vn/">ASIACCS</a>), 2025, 2027
 
 - Annual Computer Security Applications Conference (ACSAC), 2025-2026
 
@@ -42,7 +42,7 @@
 
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
-- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025, 2026
+- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025-2026
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (<a href="http://www.ccscse.org/conference.php?year=37th">CCSC SE</a>): Reviewer & Session Presider, 2023
 
@@ -75,6 +75,12 @@
 
 - <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2026
 
+
+## <b> Review Panel</b>
+
+National Science Foundation: 2026(×2)
+
+
 ## <b> University Service </b>
 
 - Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - present)
@@ -86,7 +92,3 @@
 - Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
 
 - Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
-
-## <b> Other Service </b>
-
-National Science Foundation Panel: 2026

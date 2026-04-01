@@ -6,8 +6,10 @@
 
 - Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
+- Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", The 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
-## 2025  
+
+## 2025
 
 - **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", The 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025 [:page_facing_up:](https://ieeexplore.ieee.org/document/11126786)
 
