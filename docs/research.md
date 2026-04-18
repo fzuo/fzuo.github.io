@@ -2,15 +2,15 @@
 
 ## 2026 :pushpin:
 
-- **Fei Zuo**, Gang Qian, Fang Li, Yuqi Song, and Xin Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
-
-- Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
-
 - **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, and Haotian Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
 
 - **Fei Zuo**, Shengjie Xu, Xiaoyue Ma, Xianshan Qu, and Xiaopeng Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
 
 - Fang Li, **Fei Zuo**, and Gopal Gupta. "Logic-driven cybersecurity: A novel framework for system log anomaly detection using answer set programming", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+
+- **Fei Zuo**, Gang Qian, Fang Li, Yuqi Song, and Xin Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
+
+- Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
 - Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 

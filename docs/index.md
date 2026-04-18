@@ -54,9 +54,9 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
+- We will continue to organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
-- I will visit Springfield, MO, and Lake Charles, LA, in April to attend the Annual CCSC Central Plains and South Central Region Conferences, respectively.
+- I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
 - Have been invited to join the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
@@ -80,7 +80,11 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
-<li style="margin:0; margin-bottom:5px;">Travel award from  <a href="https://cise-re-wkshp-2025.cs.fiu.edu/">NSF CISE Research Expansion Aspiring PI Workshop</a>, which was held in Miami, FL (Dec. 18-19, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Visited Lake Charles, Louisiana, and attended the 37th annual CCSC South Central conference (Apr. 24, 2026).</li>
+
+<li style="margin:0; margin-bottom:5px;">Visited Springfield, Missouri, and attended the 32nd annual CCSC Central Plains conference (Apr. 10-11, 2026).</li>
+
+<li style="margin:0; margin-bottom:5px;">Travel award from <a href="https://cise-re-wkshp-2025.cs.fiu.edu/">NSF CISE Research Expansion Aspiring PI Workshop</a>, which was held in Miami, FL (Dec. 18-19, 2025).</li>
 
 <li style="margin:0; margin-bottom:5px;">Successfully organized the 26th ACM SIGCITE annual conference as a steering committee member, in Sacramento, CA (Nov. 6-8, 2025).</li>
 
@@ -88,7 +92,7 @@ I am the graduate program director at the department of computer science. If you
 
 <li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant for conference participations, Sep. 2025.</li>
 
-<li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at the 33rd CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at the 33rd annual CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
 
 <li style="margin:0; margin-bottom:5px;">Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> in Seoul, South Korea (Sep. 23-25, 2024).</li>
 
@@ -117,8 +121,6 @@ I am the graduate program director at the department of computer science. If you
 - EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
 
 - Will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
-
-- We will continue to organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
 with a focus on applying new advances in AI to address various cybersecurity challenges, including but not limited to software analysis, system provenance, and mobile computing
 
