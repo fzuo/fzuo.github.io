@@ -12,10 +12,13 @@
 
 - Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
+- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, and Chung Hwan Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
+
 - Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
 - Tianyi Li, Haotian Chi, **Fei Zuo**, Zhihui Liu, Jinpeng Li, and Shunrong Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
+- Nikan	Kadkhodazadeh, Owen	Leitzell, Siddique Chand, Yuqi Song, **Fei Zuo**, Chuxiong Wu, and Xin Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Towson, USA, 2026
 
 ## 2025
 
