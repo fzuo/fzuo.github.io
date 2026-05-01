@@ -12,6 +12,8 @@
 
 - Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
+- Haotian Chi, **Fei Zuo**, Zhuocheng Sun, Haijun Geng, Yuwei Wang, Shunrong Jiang. "PriBSCS: Privacy-preserving distributed coordination for battery swapping and charging systems", Journal of King Saud University Computer and Information Sciences, 2026
+
 - **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, and Chung Hwan Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
 
 - Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
@@ -103,3 +105,25 @@
 - **Fei Zuo**, Xiaopeng Li, Patrick Young, Lannan Luo, Qiang Zeng, and Zhexin Zhang. "Neural machine translation inspired binary code similarity comparison beyond function pairs", 26th Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2019 (*\*This paper ranks as top 15* [*most citated paper*](https://scholar.google.com/citations?hl=en&vq=eng_computersecuritycryptography&view_op=list_hcore&venue=q2FcImd5qbgJ.2024) *of NDSS from 2019 to 2024*)
 
 - Jianzhong Qi, **Fei Zuo**, Hanan Samet, and Jia Cheng Yao. "K-regret queries using multiplicative utility functions", ACM Transactions on Database Systems (TODS), vol 43, No. 2, pp. 1-41. 2018
+
+## Translated Work
+
+- Abel Rodríguez, and Bruno Mendes. "Probability, Decisions and Games: A Gentle Introduction using R", John Wiley & Sons, 2018.
+Chinese Edition Translator: **Fei Zuo**, and Bin Bu. Tsinghua University Press, Beijing, 2019.
+(概率、决策与博弈： 基于R语言. 阿贝尔·罗德里格斯, 布鲁诺·门德斯, 著. 左飞, 补彬, 译. 北京：清华大学出版社, 2019. ISNB: 978-7302530725.)
+
+- Diomidis Spinellis. "Code Quality: The Open Source Perspective", Adobe Press, 2006
+Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Jie Li. Publishing House of Electronics Industry, Beijing, 2012.
+(代码质量. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 李洁, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121174216.)
+
+- Diomidis Spinellis. "Code Reading: The Open Source Perspective", Addison-Wesley Professional, 2003.
+Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Ning Yang. Publishing House of Electronics Industry, Beijing, 2012.
+(代码阅读. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 杨宁, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121174810.)
+
+- Charles Petzold. "Code: The Hidden Language of Computer Hardware and Software", Microsoft Press, 2000.
+Chinese Edition Translators: **Fei Zuo**, and Tongtong Xue. Publishing House of Electronics Industry, Beijing, 2012.
+(编码：隐匿在计算机软硬件背后的语言. 查尔斯·佩措尔德, 著. 左飞, 薛佟佟, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121181184.) 
+
+- Dov Bulka, and David Mayhew. "Efficient C++: Performance Programming Techniques", Addison-Wesley Professional, 2000.
+Chinese Edition Translators: **Fei Zuo**, Tongtong Xue, and Yang Gao. Publishing House of Electronics Industry, Beijing, 2011. (提高C++性能的编程技术. 多夫·布尔卡, 大卫·梅休, 著. 左飞, 薛佟佟, 高阳, 译. 北京：电子工业出版社, 2011. ISNB: 978-7121129377.)
+
