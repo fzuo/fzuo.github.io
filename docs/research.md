@@ -109,21 +109,26 @@
 ## Translated Work
 
 - Abel Rodríguez, and Bruno Mendes. "Probability, Decisions and Games: A Gentle Introduction using R", John Wiley & Sons, 2018.
+
 Chinese Edition Translator: **Fei Zuo**, and Bin Bu. Tsinghua University Press, Beijing, 2019.
 (概率、决策与博弈： 基于R语言. 阿贝尔·罗德里格斯, 布鲁诺·门德斯, 著. 左飞, 补彬, 译. 北京：清华大学出版社, 2019. ISNB: 978-7302530725.)
 
-- Diomidis Spinellis. "Code Quality: The Open Source Perspective", Adobe Press, 2006
+- Diomidis Spinellis. "Code Quality: The Open Source Perspective", Adobe Press, 2006.
+
 Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Jie Li. Publishing House of Electronics Industry, Beijing, 2012.
 (代码质量. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 李洁, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121174216.)
 
 - Diomidis Spinellis. "Code Reading: The Open Source Perspective", Addison-Wesley Professional, 2003.
+
 Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Ning Yang. Publishing House of Electronics Industry, Beijing, 2012.
 (代码阅读. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 杨宁, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121174810.)
 
 - Charles Petzold. "Code: The Hidden Language of Computer Hardware and Software", Microsoft Press, 2000.
+
 Chinese Edition Translators: **Fei Zuo**, and Tongtong Xue. Publishing House of Electronics Industry, Beijing, 2012.
 (编码：隐匿在计算机软硬件背后的语言. 查尔斯·佩措尔德, 著. 左飞, 薛佟佟, 译. 北京：电子工业出版社, 2012. ISNB: 978-7121181184.) 
 
 - Dov Bulka, and David Mayhew. "Efficient C++: Performance Programming Techniques", Addison-Wesley Professional, 2000.
+
 Chinese Edition Translators: **Fei Zuo**, Tongtong Xue, and Yang Gao. Publishing House of Electronics Industry, Beijing, 2011. (提高C++性能的编程技术. 多夫·布尔卡, 大卫·梅休, 著. 左飞, 薛佟佟, 高阳, 译. 北京：电子工业出版社, 2011. ISNB: 978-7121129377.)
 
