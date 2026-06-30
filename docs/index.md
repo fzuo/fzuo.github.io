@@ -54,17 +54,17 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- We will continue to organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
+- I received travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions, a special NSF-supported session alongside the 2026 CRA Summit in Prior Lake, Minnesota.
+
+- I will organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
-- Have been invited to join the program committees of the following conferences:<br>
+- I will be working on the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
 <span style="color:darkblue;">&#9733;</span> <a href="https://raid2026.org/">RAID'26</a>,
-<span style="color:darkblue;">&#9733;</span> <a href="https://secrypt.scitevents.org/">SECRYPT'26</a>,
-<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>,
-<span style="color:darkblue;">&#9733;</span> SecureComm'26
+<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>
 
 
 ## Past Activities
@@ -80,6 +80,8 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
+<li style="margin:0; margin-bottom:5px;">Travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions. I was selected to represent Oklahoma at this special session alongside the 2026 CRA Summit in Prior Lake, MN (Jul. 21-23, 2026). </li>
+
 <li style="margin:0; margin-bottom:5px;">Visited Lake Charles, Louisiana, and attended the 37th annual CCSC South Central conference (Apr. 24, 2026).</li>
 
 <li style="margin:0; margin-bottom:5px;">Visited Springfield, Missouri, and attended the 32nd annual CCSC Central Plains conference (Apr. 10-11, 2026).</li>
@@ -90,7 +92,7 @@ I am the graduate program director at the department of computer science. If you
 
 <li style="margin:0; margin-bottom:5px;">Successfully organized the 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> in Chicago, U.S. (Oct. 6-8, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant for conference participations, Sep. 2025.</li>
+<li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant from UCO for conference participations, Sep. 2025.</li>
 
 <li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at the 33rd annual CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
 
@@ -98,7 +100,7 @@ I am the graduate program director at the department of computer science. If you
 
 <li style="margin:0; margin-bottom:5px;">Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Sep. 2024.</li>
 
-<li style="margin:0; margin-bottom:5px;">Received the RCSA travel grant for conference participations, Aug. 2024.</li>
+<li style="margin:0; margin-bottom:5px;">Received the RCSA travel grant from UCO for conference participations, Aug. 2024.</li>
 
 <li style="margin:0; margin-bottom:5px;">Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>, which was co-organized with the 3rd OAK Supercomputing Conference in Wichita, Kansas (May 20-23, 2024).</li>
 
@@ -117,14 +119,6 @@ I am the graduate program director at the department of computer science. If you
 </div>
 
 <!--
-
-- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): PC Co-Chair, 2026
-
-- Will serve as the PC co-chair of EAI MobiCASE'26. We look forward to receiving your high-quality submissions.
-
-with a focus on applying new advances in AI to address various cybersecurity challenges, including but not limited to software analysis, system provenance, and mobile computing
-
-- Have been invited to join the editorial board of Future Generation Computer Systems. 
 
 ## Teaching
 

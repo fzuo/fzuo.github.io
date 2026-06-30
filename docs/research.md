@@ -2,109 +2,111 @@
 
 ## 2026 :pushpin:
 
-- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, and Haotian Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- **F. Zuo**, J. Rhee, Y. Choe, and H. Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
 
-- **Fei Zuo**, Shengjie Xu, Xiaoyue Ma, Xianshan Qu, and Xiaopeng Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- **F. Zuo**, S. Xu, X. Ma, X. Qu, and X. Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
 
-- Fang Li, **Fei Zuo**, and Gopal Gupta. "Logic-driven cybersecurity: A novel framework for system log anomaly detection using answer set programming", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- F. Li, **F. Zuo**, and G. Gupta. "Logic-driven cybersecurity: A novel framework for system log anomaly detection using answer set programming", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
 
-- **Fei Zuo**, Gang Qian, Fang Li, Yuqi Song, and Xin Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
+- **F. Zuo**, G. Qian, F. Li, Y. Song, and X. Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
 
-- Shristi Thapaliya, Gang Qian, and **Fei Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
+- S. Thapaliya, G. Qian, and **F. Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
-- Haotian Chi, **Fei Zuo**, Zhuocheng Sun, Haijun Geng, Yuwei Wang, Shunrong Jiang. "PriBSCS: Privacy-preserving distributed coordination for battery swapping and charging systems", Journal of King Saud University Computer and Information Sciences, 2026
+- H. Chi, **F. Zuo**, Z. Sun, H. Geng, Y. Wang, S. Jiang. "PriBSCS: Privacy-preserving distributed coordination for battery swapping and charging systems", Journal of King Saud University Computer and Information Sciences, 2026
 
-- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, and Chung Hwan Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
+- **F. Zuo**, J. Rhee, Y. Choe, and C. Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
 
-- Jinpeng Li, Bingyu Li, Haotian Chi, **Fei Zuo**, Tianyi Li, and Shunrong Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
+- J. Li, B. Li, H. Chi, **F. Zuo**, T. Li, and S. Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
-- Tianyi Li, Haotian Chi, **Fei Zuo**, Zhihui Liu, Jinpeng Li, and Shunrong Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
+- T. Li, H. Chi, **F. Zuo**, Z. Liu, J. Li, and S. Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
-- Nikan	Kadkhodazadeh, Owen	Leitzell, Siddique Chand, Yuqi Song, **Fei Zuo**, Chuxiong Wu, and Xin Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Towson, USA, 2026
+- X. Ma, Z. Yin, **F. Zuo**, H. Chi, and Y. Zhang. "Digital twin administration for communication service provision in Internet of vehicles", IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026
+
+- N. Kadkhodazadeh, O. Leitzell, S. Chand, Y. Song, **F. Zuo**, C. Wu, and X. Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Towson, USA, 2026
 
 ## 2025
 
-- **Fei Zuo**, Junghwan Rhee, Yung Ryn Choe, Chenglong Fu, and Xianshan Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025 [:page_facing_up:](https://ieeexplore.ieee.org/document/11126786)
+- **F. Zuo**, J. Rhee, Y. Choe, C. Fu, and X. Qu. "Few-shot learning-based cyber incident detection with augmented context intelligence", 49th IEEE Annual Computer, Software, and Applications Conference (COMPSAC), Toronto, Canada, 2025 [:page_facing_up:](https://ieeexplore.ieee.org/document/11126786)
 
-- **Fei Zuo**, Gang Qian, Xianshan Qu, Junghwan Rhee, and Jicheng Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3769694.3771150)
+- **F. Zuo**, G. Qian, X. Qu, J. Rhee, and J. Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3769694.3771150)
 
-- Fang Li, **Fei Zuo**, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
+- F. Li, **F. Zuo**, and G. Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
 
-- Xin Zhang, Yuqi Song, and **Fei Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", 12th IEEE International Conference on Cyber Security and Cloud Computing, New York City, USA, 2025
+- X. Zhang, Y. Song, and **F. Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", 12th IEEE International Conference on Cyber Security and Cloud Computing, New York City, USA, 2025
 
-- Huan Bui, Chenglong Fu, and **Fei Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025
+- H. Bui, C. Fu, and **F. Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025
 
-- **Fei Zuo**, Junghwan Rhee, Shuaibing Lu, Yuqi Song, and Xin Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
+- **F. Zuo**, J. Rhee, S. Lu, Y. Song, and X. Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
 
-- Ethan Gilles, Yuqi Song, Xin Zhang, and **Fei Zuo**.	"XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
+- E. Gilles, Y. Song, X. Zhang, and **F. Zuo**. "XcepKNN: Leveraging hybrid deep learning for enhanced MRI-based brain rumor classification", 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
 
-- Xin Zhang, Sarah Kayembe, Forest Ma, Yuqi Song, and **Fei Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
+- X. Zhang, S. Kayembe, F. Ma, Y. Song, and **F. Zuo**. "Analyzing and predicting employee turnover in the restaurant industry", 23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Las Vegas, USA, 2025
 
 ## 2024
 
-- **Fei Zuo**, and Junghwan Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/patch_commit_mining_review.pdf)
+- **F. Zuo**, and J. Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/patch_commit_mining_review.pdf)
 
-- **Fei Zuo**, Cody Tompkins, Qiang Zeng, Lannan Luo, Yung Ryn Choe, and Junghwan Rhee. "BinSimDB: Benchmark dataset construction for fine-grained binary code similarity analysis", 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Dubai, UAE, 2024 [:page_facing_up:](https://arxiv.org/abs/2410.10163) 
+- **F. Zuo**, C. Tompkins, Q. Zeng, L. Luo, Y. Choe, and J. Rhee. "BinSimDB: Benchmark dataset construction for fine-grained binary code similarity analysis", 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Dubai, UAE, 2024 [:page_facing_up:](https://arxiv.org/abs/2410.10163) 
 
-- Chenglong Fu, Xiaojiang Du, Qiang Zeng, Zhenyu Zhao, **Fei Zuo**, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), Seoul, Korea, 2024 [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3643833.3656124)
+- C. Fu, X. Du, Q. Zeng, Z. Zhao, **F. Zuo**, and J. Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), Seoul, Korea, 2024 [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3643833.3656124)
 
-- Junghwan Rhee, **Fei Zuo**, Yung Ryn Choe, Cody Tompkins, and Jeehyun Oh. "GrizzlyBay: Retroactive SBOM with automated identification for legacy binaries", 44th IEEE Military Communications Conference (MILCOM), Washington, DC, 2024 
+- J. Rhee, **F. Zuo**, Y. Choe, C. Tompkins, and J. Oh. "GrizzlyBay: Retroactive SBOM with automated identification for legacy binaries", 44th IEEE Military Communications Conference (MILCOM), Washington, DC, 2024 
 
-- **Fei Zuo**, Cody Tompkins, Gang Qian, Junghwan Rhee, Xianshan Qu, and Bokai Yang. "ChatGPT as an assembly language interpreter for computing education", Journal of Computing Sciences in Colleges, vol 40, No. 2, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715622.3715633)
+- **F. Zuo**, C. Tompkins, G. Qian, J. Rhee, X. Qu, and B. Yang. "ChatGPT as an assembly language interpreter for computing education", Journal of Computing Sciences in Colleges, vol 40, No. 2, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715622.3715633)
 
-- Bokai Yang, Ling Hao, Yuqi Song, Xin Zhang, **Fei Zuo**, and Xianshan Qu. "Demographics, approaches, and conceptions: Understanding computer science learning", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715611)
+- B. Yang, L. Hao, Y. Song, X. Zhang, **F. Zuo**, and X. Qu. "Demographics, approaches, and conceptions: Understanding computer science learning", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715611)
 
-- Junghwan Rhee, Aakankshya Shrestha, Gang Qian, **Fei Zuo**, Jicheng Fu, Myungah Park, Goutam Mylavarapu, Xianshan Qu, and Hong Sung. "An evaluation on the impact of large language models on computer science curricula", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715614)
+- J. Rhee, A. Shrestha, G. Qian, **F. Zuo**, J. Fu, M. Park, G. Mylavarapu, X. Qu, and H. Sung. "An evaluation on the impact of large language models on computer science curricula", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715614)
 
-- Josiah Scott, **Fei Zuo**, and Junghwan Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715618) 
+- J. Scott, **F. Zuo**, and J. Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3715602.3715618) 
 
-- Xianshan Qu, **Fei Zuo**, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Context_Matters_Investigating_Its_Impact_on_ChatGPTs_Bug_Fixing_Performance.pdf)
+- X. Qu, **F. Zuo**, X. Li, and J. Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Context_Matters_Investigating_Its_Impact_on_ChatGPTs_Bug_Fixing_Performance.pdf)
 
-- Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and **Fei Zuo**. "Revising the problem of partial labels from the perspective of CNNs' robustness", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 
+- X. Zhang, Y. Song, W. McCurdy, X. Wang, and **F. Zuo**. "Revising the problem of partial labels from the perspective of CNNs' robustness", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024 
 
-- Yuqi Song, Xin Zhang, Bokai Yang, **Fei Zuo** and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
+- Y. Song, X. Zhang, B. Yang, **F. Zuo**, and X. Qu. "A robust attention-based convolutional neural network for monocular depth estimation", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
 
-- Suhan Jiang, Jie Wu and **Fei Zuo**. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
+- S. Jiang, J. Wu, and **F. Zuo**. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Honolulu, HI, 2024
 
-- Aakankshya Shrestha, **Fei Zuo**, Gang Qian and Junghwan Rhee. "A survey and insights on modern game development processes for software engineering education", 33rd International Conference on Software Engineering and Data Engineering, San Diego, CA, 2024
+- A. Shrestha, **F. Zuo**, G. Qian, and J. Rhee. "A survey and insights on modern game development processes for software engineering education", 33rd International Conference on Software Engineering and Data Engineering, San Diego, CA, 2024
 
 ## 2023
 
-- **Fei Zuo**, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", 24th ACM Annual Conference on Information Technology Education (SIGITE), Marietta, GA, 2023 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3585059.3611416)
+- **F. Zuo**, J. Rhee, Y. Kim, J. Oh, and G. Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", 24th ACM Annual Conference on Information Technology Education (SIGITE), Marietta, GA, 2023 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3585059.3611416)
 
-- **Fei Zuo**, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: Security patch detection in open source software via Transformer", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf)
+- **F. Zuo**, X. Zhang, Y. Song, J. Rhee, and J. Fu. "Commit message can help: Security patch detection in open source software via Transformer", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 [:page_facing_up:](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf)
 
-- **Fei Zuo**, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
+- **F. Zuo**, J. Rhee, M. Park, and G. Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
-- **Fei Zuo**, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5, pp. 43–52, 2023 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3637068.3637072)
+- **F. Zuo**, J. Rhee, M. Park, and G. Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5, pp. 43–52, 2023 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3637068.3637072)
 
-- Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, **Fei Zuo**, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023 [:page_facing_up:](https://link.springer.com/article/10.1007/s44227-023-00014-9)
+- M. Shrestha, Y. Kim, J. Oh, J. Rhee, Y. Choe, **F. Zuo**, M. Park, and G. Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023 [:page_facing_up:](https://link.springer.com/article/10.1007/s44227-023-00014-9)
 
-- Suhan Jiang, Jie Wu, **Fei Zuo**, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
+- S. Jiang, J. Wu, **F. Zuo**, and A. Mei. "Balance-aware cost-efficient routing in the payment channel network", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
-- Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, **Fei Zuo**, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
+- M. Shrestha, Y. Kim, J. Oh, J. Rhee, Y. Choe, **F. Zuo**, M. Park, and G. Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023 
 
-- Xin Zhang, Yuqi Song, **Fei Zuo**, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023
+- X. Zhang, Y. Song, **F. Zuo**, Z. Zhou, and X. Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Orlando, FL, 2023
 
-- Xin Zhang, Yuqi Song, Xiaofeng Wang, and **Fei Zuo**. "D-score: A white-box diagnosis score for CNNs based on mutation operators", 19th International Conference on Advanced Data Mining and Applications (ADMA), Shenyang, China, 2023 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24) 
+- X. Zhang, Y. Song, X. Wang, and **F. Zuo**. "D-score: A white-box diagnosis score for CNNs based on mutation operators", 19th International Conference on Advanced Data Mining and Applications (ADMA), Shenyang, China, 2023 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24) 
 
-- Junghwan Rhee, Myung-Ah Park, **Fei Zuo**, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing incident response-focused cybersecurity undergraduate curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7, pp. 65–74. 2023 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3606431.3606438) 
+- J. Rhee, M. Park, **F. Zuo**, S. Zhang, G. Qian, G. Mylavarapu, H. Sung, and T. Turner. "Developing incident response-focused cybersecurity undergraduate curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7, pp. 65–74. 2023 [:page_facing_up:](https://dl.acm.org/doi/pdf/10.5555/3606431.3606438) 
 
 ## Earlier Publications
 
-- Chuxiong Wu, Xiaopeng Li, **Fei Zuo**, Lannan Luo, Xiaojiang Du, Jia Di, and Qiang Zeng. "Use it-no need to shake it! Accurate implicit authentication for everyday objects with smart sensing", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6, No. 3, pp. 1–25. 2022
+- C. Wu, X. Li, **F. Zuo**, L. Luo, X. Du, J. Di, and Q. Zeng. "Use it-no need to shake it! Accurate implicit authentication for everyday objects with smart sensing", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6, No. 3, pp. 1–25. 2022
 
-- **Fei Zuo**, and Qiang Zeng. "Exploiting the sensitivity of L2 adversarial examples to erase-and-restore", 16th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Hong Kong, China, 2021
+- **F. Zuo**, and Q. Zeng. "Exploiting the sensitivity of L2 adversarial examples to erase-and-restore", 16th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Hong Kong, China, 2021
 
-- Lannan Luo, Qiang Zeng, Bokai Yang, **Fei Zuo**, and Junzhe Wang. "Westworld: Fuzzing-assisted remote dynamic symbolic execution of smart apps on IoT cloud platforms", Annual Computer Security Applications Conference (ACSAC), Austin, TX, 2021
+- L. Luo, Q. Zeng, B. Yang, **F. Zuo**, and J. Wang. "Westworld: Fuzzing-assisted remote dynamic symbolic execution of smart apps on IoT cloud platforms", Annual Computer Security Applications Conference (ACSAC), Austin, TX, 2021
 
-- Xiaopeng Li, Fengyao Yan, **Fei Zuo**, Qiang Zeng, and Lannan Luo. "Touch well before use: Intuitive and secure authentication for IoT devices", 25th Annual International Conference on Mobile Computing and Networking (MobiCom), Los Cabos, Mexico, 2019
+- X. Li, F. Yan, **F. Zuo**, Q. Zeng, and L. Luo. "Touch well before use: Intuitive and secure authentication for IoT devices", 25th Annual International Conference on Mobile Computing and Networking (MobiCom), Los Cabos, Mexico, 2019
 
-- **Fei Zuo**, Bokai Yang, Xiaopeng Li, Qiang Zeng, and Lannan Luo. "Exploiting the inherent limitation of L0 adversarial examples", 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Beijing, China, 2019
+- **F. Zuo**, B. Yang, X. Li, Q. Zeng, and L. Luo. "Exploiting the inherent limitation of L0 adversarial examples", 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Beijing, China, 2019
 
-- **Fei Zuo**, Xiaopeng Li, Patrick Young, Lannan Luo, Qiang Zeng, and Zhexin Zhang. "Neural machine translation inspired binary code similarity comparison beyond function pairs", 26th Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2019 (*\*This paper ranks as top 15* [*most citated paper*](https://scholar.google.com/citations?hl=en&vq=eng_computersecuritycryptography&view_op=list_hcore&venue=q2FcImd5qbgJ.2024) *of NDSS from 2019 to 2024*)
+- **F. Zuo**, X. Li, P. Young, L. Luo, Q. Zeng, and Z. Zhang. "Neural machine translation inspired binary code similarity comparison beyond function pairs", 26th Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2019 (*\*This paper ranks as top 15* [*most citated paper*](https://scholar.google.com/citations?hl=en&vq=eng_computersecuritycryptography&view_op=list_hcore&venue=q2FcImd5qbgJ.2024) *of NDSS from 2019 to 2024*)
 
-- Jianzhong Qi, **Fei Zuo**, Hanan Samet, and Jia Cheng Yao. "K-regret queries using multiplicative utility functions", ACM Transactions on Database Systems (TODS), vol 43, No. 2, pp. 1-41. 2018
+- J. Qi, **F. Zuo**, H. Samet, and J. Yao. "K-regret queries using multiplicative utility functions", ACM Transactions on Database Systems (TODS), vol 43, No. 2, pp. 1-41. 2018
 
 ## Translated Work
 

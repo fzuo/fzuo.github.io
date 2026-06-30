@@ -6,6 +6,8 @@
 
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026
 
+- EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), 2026
+
 - International Conference on Security and Cryptography (SECRYPT), 2026
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://raid2024.github.io/">RAID</a>), 2024-2026
@@ -42,6 +44,8 @@
 
 <b> Reviewer and Other Roles </b>
 
+- ACM Technical Symposium on Computer Science Education (SIGCSE TS): Reviewer, 2027
+
 - Annual Consortium for Computing Sciences in Colleges Rocky Mountain Conference (CCSC RM): Reviewer, 2025
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025-2026
@@ -72,6 +76,10 @@
 - <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2026
 
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
+
+- <a href="https://www.comsoc.org/publications/magazines/ieee-wireless-communications">IEEE Wireless Communications</a>, 2026
+
+- <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, 2026
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
