@@ -54,8 +54,6 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- I received travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions, a special NSF-supported session alongside the 2026 CRA Summit in Prior Lake, Minnesota.
-
 - I will organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
@@ -63,7 +61,7 @@ I am the graduate program director at the department of computer science. If you
 - I will be working on the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
-<span style="color:darkblue;">&#9733;</span> <a href="https://raid2026.org/">RAID'26</a>,
+<span style="color:darkblue;">&#9733;</span> <a href="https://mobiquitous.eai-conferences.org/">MobiQuitous'26</a>,
 <span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>
 
 
