@@ -20,6 +20,10 @@
 
 - T. Li, H. Chi, **F. Zuo**, Z. Liu, J. Li, and S. Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
 
+- Y. Wang, X. Zhang, Y. Tai, H. Chi, **F. Zuo**, and S. Jiang. "Z-MFilter: Dual-layer poisoning detection with differentially private gradient uploads for federated learning", IEEE Global Communications Conference (GlobeCom), Macau, China, 2026
+
+- H. Chi, Y. Xu, **F. Zuo**, R. Zhang, H. Geng, X. Ma, and Y. Wang. "AccSense: IoT device access monitoring across disjoint management channels", IEEE Global Communications Conference (GlobeCom), Macau, China, 2026
+
 - X. Ma, Z. Yin, **F. Zuo**, H. Chi, and Y. Zhang. "Digital twin administration for communication service provision in Internet of vehicles", IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026
 
 - N. Kadkhodazadeh, O. Leitzell, S. Chand, Y. Song, **F. Zuo**, C. Wu, and X. Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Towson, USA, 2026
