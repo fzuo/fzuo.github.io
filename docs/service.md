@@ -37,7 +37,7 @@
 
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
-- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Program Committee Chair, 2026
+- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Program Committee Co-Chair, 2026
 
 - International Conference on Artificial Intelligence in Education Technology and Data Science (AIETDS): Publicity Co-Chair, 2027
 
@@ -73,25 +73,25 @@
 
 ##  <b> International Journal Reviewer </b>
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2026
 
-- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>
+- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2026
 
-- <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>
+- <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
-- <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing</a>
+- <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing</a>, 2026
 
-- <a href="https://www.comsoc.org/publications/magazines/ieee-wireless-communications">IEEE Wireless Communications</a>
+- <a href="https://www.comsoc.org/publications/magazines/ieee-wireless-communications">IEEE Wireless Communications</a>, 2026
 
-- <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>
+- <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, 2026
 
-- <a href="https://link.springer.com/journal/10515">Automated Software Engineering</a>
+- <a href="https://link.springer.com/journal/10515">Automated Software Engineering</a>, 2026
 
-- <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>
+- <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
-- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2026
 
 
 ## <b> Review Panel</b>
