@@ -59,10 +59,10 @@ I am the graduate program director at the department of computer science. If you
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
 - I will be working on the program committees of the following conferences:<br>
+<span style="color:darkblue;">&#9733;</span> NDSS'27,
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
-<span style="color:darkblue;">&#9733;</span> <a href="https://mobiquitous.eai-conferences.org/">MobiQuitous'26</a>,
-<span style="color:darkblue;">&#9733;</span> <a href="https://globecom2026.ieee-globecom.org/">GLOBECOM'26</a>
+<span style="color:darkblue;">&#9733;</span> <a href="https://mobiquitous.eai-conferences.org/">MobiQuitous'26</a>
 
 
 ## Past Activities
