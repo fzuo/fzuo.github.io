@@ -39,11 +39,9 @@
 
 - ACM Annual Conference on Cybersecurity and Information Technology Education (SIGCITE): Steering Committee & Registration Chair, 2025
 
-- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Program Committee Co-Chair, 2026
-
-- International Conference on Artificial Intelligence in Education Technology and Data Science (AIETDS): Publicity Co-Chair, 2027
-
 - International Workshop on Edge Intelligence and Vehicular Networks (co-located with IEEE MASS): General Co-Chair, 2024-2026
+
+- EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Program Committee Co-Chair, 2026
 
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
