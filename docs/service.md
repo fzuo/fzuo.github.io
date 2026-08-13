@@ -28,6 +28,8 @@
 
 - IEEE European Symposium on Security and Privacy (<a href="https://eurosp2025.ieee-security.org/">EuroS&P</a>), 2025
 
+- IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD), 2024
+
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2022-2025
 
 

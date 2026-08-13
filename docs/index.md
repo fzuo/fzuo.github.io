@@ -128,4 +128,6 @@ I am the graduate program director at the department of computer science. If you
 
 Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
+- International Conference on Artificial Intelligence in Education Technology and Data Science (AIETDS): Publicity Co-Chair, 2027
+
  -->
