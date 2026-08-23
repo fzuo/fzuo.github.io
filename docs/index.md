@@ -58,11 +58,13 @@ I am the graduate program director at the department of computer science. If you
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
+- I will attend Oklahoma City Cybersecurity Conference, a FutureCon event, on Sep. 3, 2026.
+
 - I will be working on the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> NDSS'27,
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
 <span style="color:darkblue;">&#9733;</span> ACSAC'26,
-<span style="color:darkblue;">&#9733;</span> <a href="https://mobiquitous.eai-conferences.org/">MobiQuitous'26</a>
+<span style="color:darkblue;">&#9733;</span> IEEE BigData'26 (Main Track & Industrial and Government Track)</a>
 
 
 ## Past Activities
@@ -78,23 +80,23 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
-<li style="margin:0; margin-bottom:5px;">Travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions. I was selected to represent Oklahoma at this special session alongside the 2026 CRA Summit in Prior Lake, MN (Jul. 21-23, 2026). </li>
+<li style="margin:0; margin-bottom:5px;">Travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions, a special session alongside the 2026 CRA Summit, in Prior Lake, MN (Jul. 21-23, 2026). </li>
 
-<li style="margin:0; margin-bottom:5px;">Visited Lake Charles, Louisiana, and attended the 37th annual CCSC South Central conference (Apr. 24, 2026).</li>
+<li style="margin:0; margin-bottom:5px;">Visited Lake Charles, Louisiana, and attended 37th annual CCSC South Central conference (Apr. 24, 2026).</li>
 
-<li style="margin:0; margin-bottom:5px;">Visited Springfield, Missouri, and attended the 32nd annual CCSC Central Plains conference (Apr. 10-11, 2026).</li>
+<li style="margin:0; margin-bottom:5px;">Visited Springfield, Missouri, and attended 32nd annual CCSC Central Plains conference (Apr. 10-11, 2026).</li>
 
 <li style="margin:0; margin-bottom:5px;">Travel award from <a href="https://cise-re-wkshp-2025.cs.fiu.edu/">NSF CISE Research Expansion Aspiring PI Workshop</a>, which was held in Miami, FL (Dec. 18-19, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized the 26th ACM SIGCITE annual conference as a steering committee member, in Sacramento, CA (Nov. 6-8, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized 26th ACM SIGCITE annual conference as a steering committee member, in Sacramento, CA (Nov. 6-8, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized the 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> in Chicago, U.S. (Oct. 6-8, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> in Chicago, U.S. (Oct. 6-8, 2025).</li>
 
 <li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant from UCO for conference participations, Sep. 2025.</li>
 
-<li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at the 33rd annual CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at 33rd annual CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized the International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> in Seoul, South Korea (Sep. 23-25, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> in Seoul, South Korea (Sep. 23-25, 2024).</li>
 
 <li style="margin:0; margin-bottom:5px;">Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Sep. 2024.</li>
 
@@ -129,5 +131,8 @@ I am the graduate program director at the department of computer science. If you
 Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
 - International Conference on Artificial Intelligence in Education Technology and Data Science (AIETDS): Publicity Co-Chair, 2027
+
+<li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
+
 
  -->

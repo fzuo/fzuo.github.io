@@ -12,6 +12,8 @@
 
 - S. Thapaliya, G. Qian, and **F. Zuo**. "Evaluating LLMs for SQL instruction: A comparative study of five commercial models", Journal of Computing Sciences in Colleges, vol 41, No. 7, 2026
 
+- **F. Zuo**, H. Chi, S. Jiang, L. Wu, Y. Song, and X. Zhang. "A systematic review on the impact of generative AI in programming education for novice learners", 27th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Wilmington, USA, 2026
+
 - H. Chi, **F. Zuo**, Z. Sun, H. Geng, Y. Wang, S. Jiang. "PriBSCS: Privacy-preserving distributed coordination for battery swapping and charging systems", Journal of King Saud University Computer and Information Sciences, 2026
 
 - **F. Zuo**, J. Rhee, Y. Choe, and C. Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
@@ -26,7 +28,10 @@
 
 - X. Ma, Z. Yin, **F. Zuo**, H. Chi, and Y. Zhang. "Digital twin administration for communication service provision in Internet of vehicles", IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026
 
-- N. Kadkhodazadeh, O. Leitzell, S. Chand, Y. Song, **F. Zuo**, C. Wu, and X. Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Towson, USA, 2026
+- N. Kadkhodazadeh, O. Leitzell, S. Chand, Y. Song, **F. Zuo**, C. Wu, and X. Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Towson, USA, 2026
+
+- X. Zhang, Y. Song, **F. Zuo**, X. Qu, and X. Li. "A general vision-language framework for cellular toxicity concentration grading from phase-contrast microscopy", 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Boca Raton, USA, 2026
+
 
 ## 2025
 

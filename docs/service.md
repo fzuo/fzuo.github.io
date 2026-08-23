@@ -26,6 +26,8 @@
 
 - IEEE Global Communications Conference (GLOBECOM), 2026
 
+- IEEE International Conference on Big Data (BigData), 2026
+
 - IEEE European Symposium on Security and Privacy (<a href="https://eurosp2025.ieee-security.org/">EuroS&P</a>), 2025
 
 - IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD), 2024
@@ -70,6 +72,12 @@
 - <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Computer Standards & Interfaces</a>, Elsevier, 2025 - present
 
 - <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Elsevier, 2026 - present
+
+
+## <b> Special Issue Editor </b>
+
+- Lead guest editor, Special issue on "Collaborative intelligence in next-generation computing: security, privacy, and resilience" at <a href="https://www.techscience.com/journal/cmc">Computers, Materials & Continua</a>, 2026-2027.
+
 
 ##  <b> International Journal Reviewer </b>
 
