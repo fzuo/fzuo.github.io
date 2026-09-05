@@ -2,11 +2,11 @@
 
 ## 2026 :pushpin:
 
-- **F. Zuo**, J. Rhee, Y. Choe, and H. Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- **F. Zuo**, J. Rhee, Y. Choe, and H. Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-30805-4_12)
 
-- **F. Zuo**, S. Xu, X. Ma, X. Qu, and X. Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- **F. Zuo**, S. Xu, X. Ma, X. Qu, and X. Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-30809-2_14)
 
-- F. Li, **F. Zuo**, and G. Gupta. "Logic-driven cybersecurity: A novel framework for system log anomaly detection using answer set programming", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026
+- F. Li, **F. Zuo**, and G. Gupta. "Logic-driven cybersecurity: A novel framework for system log anomaly detection using answer set programming", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-30805-4_18)
 
 - **F. Zuo**, G. Qian, F. Li, Y. Song, and X. Zhang. "Generative AI and software development job security: Challenges and insights for computing education", Journal of Computing Sciences in Colleges, vol 41, No. 6, 2026
 
@@ -14,17 +14,19 @@
 
 - H. Chi, **F. Zuo**, Z. Sun, H. Geng, Y. Wang, S. Jiang. "PriBSCS: Privacy-preserving distributed coordination for battery swapping and charging systems", Journal of King Saud University Computer and Information Sciences, 2026
 
-- **F. Zuo**, J. Rhee, Y. Choe, and C. Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026
+- **F. Zuo**, J. Rhee, Y. Choe, and C. Kim. "Knowledge transfer from LLMs to provenance analysis: Semantic-augmented APT detection", 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Industry Track, Charlotte, USA, 2026 [:page_facing_up:](https://ieeexplore.ieee.org/document/11664688)
 
-- J. Li, B. Li, H. Chi, **F. Zuo**, T. Li, and S. Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
+- J. Li, B. Li, H. Chi, **F. Zuo**, T. Li, and S. Jiang. "P<sup>2</sup>NC-DET: A privacy-preserving and network-constrained decentralized energy trading scheme based on blockchain", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-32767-3_16)
 
-- T. Li, H. Chi, **F. Zuo**, Z. Liu, J. Li, and S. Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026
+- T. Li, H. Chi, **F. Zuo**, Z. Liu, J. Li, and S. Jiang. "Z-RegStore: A physical-constraint-aware and regulatory-compliant privacy-preserving energy settlement scheme for microgrids", 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-32767-3_17)
 
 - Y. Wang, X. Zhang, Y. Tai, H. Chi, **F. Zuo**, and S. Jiang. "Z-MFilter: Dual-layer poisoning detection with differentially private gradient uploads for federated learning", IEEE Global Communications Conference (GlobeCom), Macau, China, 2026
 
 - H. Chi, Y. Xu, **F. Zuo**, R. Zhang, H. Geng, X. Ma, and Y. Wang. "AccSense: IoT device access monitoring across disjoint management channels", IEEE Global Communications Conference (GlobeCom), Macau, China, 2026
 
-- X. Ma, Z. Yin, **F. Zuo**, H. Chi, and Y. Zhang. "Digital twin administration for communication service provision in Internet of vehicles", IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026
+- X. Ma, Z. Yin, **F. Zuo**, H. Chi, and Y. Zhang. "Digital twin administration for communication service provision in Internet of vehicles", 15th IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026
+
+- X. Zhang, Y. Song, **F. Zuo**, X. Qu, and X. Li. "A general vision-language framework for cellular toxicity concentration grading from phase-contrast microscopy", 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Boca Raton, USA, 2026
 
 - N. Kadkhodazadeh, O. Leitzell, S. Chand, Y. Song, **F. Zuo**, C. Wu, and X. Zhang. "IBNet: Inverted bottleneck network for lightweight automatic speech recognition", 24th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Towson, USA, 2026
 
@@ -35,11 +37,11 @@
 
 - **F. Zuo**, G. Qian, X. Qu, J. Rhee, and J. Fu. "Revisiting the capability of GPT in solving coding problems: A lesson from programming with recursion", 26th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Sacramento, USA, 2025 [:page_facing_up:](https://dl.acm.org/doi/10.1145/3769694.3771150)
 
-- F. Li, **F. Zuo**, and G. Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025
+- F. Li, **F. Zuo**, and G. Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, USA, 2025 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-031-84924-4_15)
 
-- X. Zhang, Y. Song, and **F. Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", 12th IEEE International Conference on Cyber Security and Cloud Computing, New York City, USA, 2025
+- X. Zhang, Y. Song, and **F. Zuo**. "A dual-branch CNN for robust detection of AI-generated facial forgeries", 12th IEEE International Conference on Cyber Security and Cloud Computing, New York City, USA, 2025 [:page_facing_up:](https://ieeexplore.ieee.org/document/11261496)
 
-- H. Bui, C. Fu, and **F. Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025
+- H. Bui, C. Fu, and **F. Zuo**. "TAPAssure: Safe automation in smart homes with LLMs and formal verification", 3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, Salt Lake City, USA, 2025 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-33701-6_3)
 
 - **F. Zuo**, J. Rhee, S. Lu, Y. Song, and X. Zhang. "An empirical study on the multi-stage nature of APT attacks in cloud computing", 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), EIVN Workshop, Chicago, USA, 2025
 

@@ -58,8 +58,6 @@ I am the graduate program director at the department of computer science. If you
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
-- I will attend Oklahoma City Cybersecurity Conference, a FutureCon event, on Sep. 3, 2026.
-
 - I will be working on the program committees of the following conferences:<br>
 <span style="color:darkblue;">&#9733;</span> NDSS'27,
 <span style="color:darkblue;">&#9733;</span> AsiaCCS'27,
@@ -79,6 +77,8 @@ I am the graduate program director at the department of computer science. If you
     white-space:normal; 
 ">
 <ul style="margin:0; padding-left:30px;">
+
+<li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
 
 <li style="margin:0; margin-bottom:5px;">Travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions, a special session alongside the 2026 CRA Summit, in Prior Lake, MN (Jul. 21-23, 2026). </li>
 
@@ -118,6 +118,8 @@ I am the graduate program director at the department of computer science. If you
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=N3fZsE8tSmmgPaDs2mxSyEqYiIlz7AHJpPDRW4Jrli0&cl=ffffff&w=240"></script>
 </div>
 
+
+
 <!--
 
 ## Teaching
@@ -127,12 +129,5 @@ I am the graduate program director at the department of computer science. If you
 - <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration</a>, Fall semester
 
 - <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
-
-Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
-
-- International Conference on Artificial Intelligence in Education Technology and Data Science (AIETDS): Publicity Co-Chair, 2027
-
-<li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
-
 
  -->
