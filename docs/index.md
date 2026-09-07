@@ -69,7 +69,7 @@ I am the graduate program director at the department of computer science. If you
 
 <div style="
     width: 930px;
-    max-height: 280px;
+    height: 284px;
     overflow-y: auto;
     border: 1px solid #7e7d7dff;
     border-radius: 6px;
