@@ -76,7 +76,7 @@
 
 ## <b> Special Issue Editor </b>
 
-- Lead guest editor, Special issue on "Collaborative intelligence in next-generation computing: security, privacy, and resilience" at <a href="https://www.techscience.com/journal/cmc">Computers, Materials & Continua</a>, 2026-2027.
+- Lead guest editor, Special issue on "Collaborative intelligence in next-generation computing: security, privacy, and resilience" at <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">Computers, Materials & Continua</a>, 2026-2027.
 
 
 ##  <b> International Journal Reviewer </b>

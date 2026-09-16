@@ -2,6 +2,9 @@
 
 ## 2026 :pushpin:
 
+
+- **F. Zuo**, H. Chi, S. Jiang, L. Wu, Y. Song, and X. Zhang. "A systematic review on the impact of generative AI in programming education for novice learners", 27th Annual ACM Conference on Cybersecurity and Information Technology Education (SIGCITE), Wilmington, USA, 2026
+
 - **F. Zuo**, J. Rhee, Y. Choe, and H. Chi. "Context-aware embeddings of system events via LLMs towards fine-grained threat detection", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-30805-4_12)
 
 - **F. Zuo**, S. Xu, X. Ma, X. Qu, and X. Li. "The impact of AI advancement on software development labor market: Empirical evidence from the United States", 22nd International Conference on Artificial Intelligence Applications and Innovations, Chania, Greece, 2026 [:page_facing_up:](https://link.springer.com/chapter/10.1007/978-3-032-30809-2_14)

@@ -54,6 +54,8 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
+- Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>. 
+
 - I will organize the 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this fall!
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
