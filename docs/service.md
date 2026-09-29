@@ -6,7 +6,7 @@
 
 - The Network and Distributed System Security Symposium (NDSS), 2027
 
-- EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2026-2027
 
 - EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), 2026
 
@@ -91,11 +91,15 @@
 
 - <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing</a>, 2026
 
+- <a href="https://www.computer.org/csdl/magazine/ic">IEEE Internet Computing</a>, 2026
+
 - <a href="https://www.comsoc.org/publications/magazines/ieee-wireless-communications">IEEE Wireless Communications</a>, 2026
 
 - <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, 2026
 
 - <a href="https://link.springer.com/journal/10515">Automated Software Engineering</a>, 2026
+
+- <a href="https://link.springer.com/journal/10207">International Journal of Information Security</a>, 2026
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
