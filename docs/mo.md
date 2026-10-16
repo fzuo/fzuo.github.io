@@ -3,9 +3,9 @@
 <tr>
 
 <td height="188"> <img src="../pics/mo_101.jpg" border=0 alt=""></img> </td>
-<td height="188"> <img src="../pics/mo_102.jpg" border=0 alt=""></img> </td>
+<td height="188"> <img src="../pics/mo_102.jpeg" border=0 alt=""></img> </td>
 <td height="188"> <img src="../pics/mo_103.jpg" border=0 alt=""></img> </td>
-<td height="188"> <img src="../pics/mo_104.jpg" border=0 alt=""></img> </td>
+<td height="188"> <img src="../pics/mo_104.JPG" border=0 alt=""></img> </td>
 
 </tr>
 
