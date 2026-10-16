@@ -26,7 +26,7 @@
 
 - IEEE Global Communications Conference (GLOBECOM), 2026
 
-- IEEE International Conference on Big Data (BigData), 2026
+- IEEE International Conference on Big Data (BigData)(Main Track & Industrial and Government Track), 2026
 
 - IEEE European Symposium on Security and Privacy (<a href="https://eurosp2025.ieee-security.org/">EuroS&P</a>), 2025
 
@@ -101,6 +101,8 @@
 
 - <a href="https://link.springer.com/journal/10207">International Journal of Information Security</a>, 2026
 
+- <a href="https://link.springer.com/journal/44443">Journal of King Saud University Computer and Information Sciences</a>, 2026
+
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
 - <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, 2024 - 2026
@@ -108,14 +110,16 @@
 
 ## <b> Review Panel</b>
 
-- National Science Foundation: 2026(×2)
+- National Science Foundation: 2026(×3)
 
 
 ## <b> University Service </b>
 
+- Faculty senator, University of Central Oklahoma (10/2026 - present)
+
 - Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - present)
 
-- URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - present)
+- URCAT (Undergraduate Research and Creative Activities Team), UCO (08/2023 - present)
 
 - Screening committee of the CS department (01/2023 - present)
 
