@@ -54,12 +54,11 @@ I am the graduate program director at the department of computer science. If you
 
 ## News and Ads :mega:
 
-- Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>. 
-
-- I will organize 3rd EIVN workshop in conjunction with IEEE MASS'26. Please join us in Hong Kong this October!
+- Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>.
 
 - I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
 
+- I will be working on the program committees of NDSS'27, ASIACCS'27, and SecureComm'27.
 
 
 ## Past Activities
@@ -75,6 +74,8 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
+<li style="margin:0; margin-bottom:5px;">Successfully organized 3rd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with IEEE MASS'26 in Hong Kong, China, Oct. 2026.</li>
+
 <li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
 
 <li style="margin:0; margin-bottom:5px;">Travel funding from Expanding CISE Research Capacity Across EPSCoR Jurisdictions, a special session alongside the 2026 CRA Summit, in Prior Lake, MN (Jul. 21-23, 2026). </li>
@@ -87,13 +88,13 @@ I am the graduate program director at the department of computer science. If you
 
 <li style="margin:0; margin-bottom:5px;">Successfully organized 26th ACM SIGCITE annual conference as a steering committee member, in Sacramento, CA (Nov. 6-8, 2025).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">MASS'25</a> in Chicago, U.S. (Oct. 6-8, 2025).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized 2nd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://ieeemass2025.github.io/ieeemass2025/">IEEE MASS'25</a> in Chicago, US, Oct. 2025.</li>
 
 <li style="margin:0; margin-bottom:5px; ">Received the RCSA travel grant from UCO for conference participations, Sep. 2025.</li>
 
 <li style="margin:0; margin-bottom:5px;">Visited Flagstaff, Arizona, and presented our work at 33rd annual CCSC Rocky Mountain Conference (Oct. 18-19, 2024).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> in Seoul, South Korea (Sep. 23-25, 2024).</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized International Workshop on Edge Intelligence and Vehicular Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">IEEE MASS'24</a> in Seoul, South Korea, Sep. 2024.</li>
 
 <li style="margin:0; margin-bottom:5px;">Joined the editorial board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Sep. 2024.</li>
 
