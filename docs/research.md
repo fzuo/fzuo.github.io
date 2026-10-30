@@ -121,25 +121,26 @@
 ## Translated Work
 
 - Robert Sedgewick, and Philippe Flajolet. "An Introduction to the Analysis of Algorithms, Second Edition", Addison-Wesley Professional, 2013.
-Chinese Edition Translator: Qing Chang, and **Fei Zuo**. Publishing House of Electronics Industry, Beijing, 2019.
-(算法分析导论, 第2版. 罗伯特·塞奇威克, 费利佩·弗拉若莱, 著. 常青, 左飞, 译. 北京：电子工业出版社, 2019. ISBN: 978-7121353680)
+Chinese Edition Translator: Q. Chang, and **F. Zuo**. Publishing House of Electronics Industry, Beijing, 2019.
+(算法分析导论, 第2版. 罗伯特·塞奇威克, 费利佩·弗拉若莱, 著. 常青, 左飞, 译. 北京：电子工业出版社, 2019. ISBN: 978-7121353680.)
 
 - Abel Rodríguez, and Bruno Mendes. "Probability, Decisions and Games: A Gentle Introduction using R", John Wiley & Sons, 2018.
-Chinese Edition Translator: **Fei Zuo**, and Bin Bu. Tsinghua University Press, Beijing, 2019.
+Chinese Edition Translator: **F. Zuo**, and B. Bu. Tsinghua University Press, Beijing, 2019.
 (概率、决策与博弈： 基于R语言. 阿贝尔·罗德里格斯, 布鲁诺·门德斯, 著. 左飞, 补彬, 译. 北京：清华大学出版社, 2019. ISBN: 978-7302530725.)
 
 - Diomidis Spinellis. "Code Quality: The Open Source Perspective", Adobe Press, 2006.
-Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Jie Li. Publishing House of Electronics Industry, Beijing, 2012.
+Chinese Edition Translator: **F. Zuo**, Y. Wu, and J. Li. Publishing House of Electronics Industry, Beijing, 2012.
 (代码质量. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 李洁, 译. 北京：电子工业出版社, 2012. ISBN: 978-7121174216.)
 
 - Diomidis Spinellis. "Code Reading: The Open Source Perspective", Addison-Wesley Professional, 2003.
-Chinese Edition Translator: **Fei Zuo**, Yue Wu, and Ning Yang. Publishing House of Electronics Industry, Beijing, 2012.
+Chinese Edition Translator: **F. Zuo**, Y. Wu, and N. Yang. Publishing House of Electronics Industry, Beijing, 2012.
 (代码阅读. 季奥米季斯·斯宾耐立思, 著. 左飞, 吴跃, 杨宁, 译. 北京：电子工业出版社, 2012. ISBN: 978-7121174810.)
 
 - Charles Petzold. "Code: The Hidden Language of Computer Hardware and Software", Microsoft Press, 2000.
-Chinese Edition Translators: **Fei Zuo**, and Tongtong Xue. Publishing House of Electronics Industry, Beijing, 2012.
+Chinese Edition Translators: **F. Zuo**, and T. Xue. Publishing House of Electronics Industry, Beijing, 2012.
 (编码：隐匿在计算机软硬件背后的语言. 查尔斯·佩措尔德, 著. 左飞, 薛佟佟, 译. 北京：电子工业出版社, 2012. ISBN: 978-7121181184.) 
 
 - Dov Bulka, and David Mayhew. "Efficient C++: Performance Programming Techniques", Addison-Wesley Professional, 2000.
-Chinese Edition Translators: **Fei Zuo**, Tongtong Xue, and Yang Gao. Publishing House of Electronics Industry, Beijing, 2011. (提高C++性能的编程技术. 多夫·布尔卡, 大卫·梅休, 著. 左飞, 薛佟佟, 高阳, 译. 北京：电子工业出版社, 2011. ISBN: 978-7121129377.)
+Chinese Edition Translators: **F. Zuo**, T. Xue, and Y. Gao. Publishing House of Electronics Industry, Beijing, 2011.
+(提高C++性能的编程技术. 多夫·布尔卡, 大卫·梅休, 著. 左飞, 薛佟佟, 高阳, 译. 北京：电子工业出版社, 2011. ISBN: 978-7121129377.)
 
