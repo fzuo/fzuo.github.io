@@ -76,7 +76,9 @@
 
 ## <b> Special Issue Editor </b>
 
-- Lead guest editor, Special issue on "Collaborative intelligence in next-generation computing: security, privacy, and resilience" at <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">Computers, Materials & Continua</a>, 2026-2027.
+- Guest editor, Special issue on "Collaborative intelligence in next-generation computing: security, privacy, and resilience" at <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">Computers, Materials & Continua</a>, 2026-2027. (Indexed in SCIE, JCR:Q3)
+
+- Guest editor, Special issue on "Advances in intelligent systems and cybersecurity" at <a href="https://www.mdpi.com/journal/mathematics/special_issues/2N1Z162UJ5">Mathematics</a>, 2026-2027. (Indexed in SCIE, JCR:Q1)
 
 
 ##  <b> International Journal Reviewer </b>

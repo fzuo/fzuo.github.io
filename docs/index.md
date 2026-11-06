@@ -74,6 +74,8 @@ I am the graduate program director at the department of computer science. If you
 ">
 <ul style="margin:0; padding-left:30px;">
 
+<li style="margin:0; margin-bottom:5px;">Visited Boca Raton, Florida, and presented our work at 38th IEEE International Conference on Tools with Artificial Intelligence (Nov. 2-4, 2026).</li>
+
 <li style="margin:0; margin-bottom:5px;">Successfully organized 3rd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with IEEE MASS'26 in Hong Kong, China, Oct. 2026.</li>
 
 <li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
