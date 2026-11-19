@@ -56,8 +56,6 @@ I am the graduate program director at the department of computer science. If you
 
 - Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>.
 
-- I will serve as Tutorials Co-Chair of ACM SIGCSE Virtual 2026. We look forward to your active participation.
-
 - I will be working on the program committees of NDSS'27, ASIACCS'27, and SecureComm'27.
 
 
