@@ -47,7 +47,7 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-My main research interest is Cybersecurity and Artificial Intelligence. I am also active in the computing education research community and have been involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
+My main research interest is Cybersecurity, Mobile Computing, and Artificial Intelligence. I am also active in the computing education research community and have been involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
 <br>
 <br>
 I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
@@ -55,6 +55,8 @@ I am the graduate program director at the department of computer science. If you
 ## News and Ads :mega:
 
 - Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>.
+
+- I will join IEEE CISOSE 2027 organization committee and serve as publicity co-chair. The international congress will be held in Oxford, UK (June 8-11, 2027).
 
 - I will be working on the program committees of NDSS'27, ASIACCS'27, and SecureComm'27.
 
@@ -74,7 +76,7 @@ I am the graduate program director at the department of computer science. If you
 
 <li style="margin:0; margin-bottom:5px;">Visited Boca Raton, Florida, and presented our work at 38th IEEE International Conference on Tools with Artificial Intelligence (Nov. 2-4, 2026).</li>
 
-<li style="margin:0; margin-bottom:5px;">Successfully organized 3rd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with IEEE MASS'26 in Hong Kong, China, Oct. 2026.</li>
+<li style="margin:0; margin-bottom:5px;">Successfully organized 3randd International Workshop on Edge Intelligence and Vehicular Networks in conjunction with IEEE MASS'26 in Hong Kong, China, Oct. 2026.</li>
 
 <li style="margin:0; margin-bottom:5px;">Attended Oklahoma City Cybersecurity Conference, a FutureCon event, which was held in Oklahoma City, OK (Sep. 3, 2026). </li>
 
@@ -128,4 +130,4 @@ I am the graduate program director at the department of computer science. If you
 
 - <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
 
- -->
+-->
