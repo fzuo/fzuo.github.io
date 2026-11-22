@@ -56,9 +56,9 @@ I am the graduate program director at the department of computer science. If you
 
 - Our speical issue at "Computers, Materials & Continua" is calling for submissions. See more details <a href="https://www.techscience.com/cmc/special_detail/collaborative-intelligence">here</a>.
 
-- I will join IEEE CISOSE 2027 organization committee and serve as publicity co-chair. The international congress will be held in Oxford, UK (June 8-11, 2027).
-
 - I will be working on the program committees of NDSS'27, ASIACCS'27, and SecureComm'27.
+
+- I will join IEEE CISOSE 2027 organization committee and serve as Publicity Co-Chair. This international congress will be held in Oxford, UK (June 8-11, 2027).
 
 
 ## Past Activities
