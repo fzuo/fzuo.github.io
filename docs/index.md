@@ -47,7 +47,7 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-My main research interest is Cybersecurity, Mobile Computing, and Artificial Intelligence. I am also active in the computing education research community and have been involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
+My main research interest is Cybersecurity, Mobile Computing, and AI. I am also active in the computing education research community and have been involved in organizing multiple conferences under ACM SIGCSE and SIGCITE. I additionally serve on the editorial boards of four academic journals.
 <br>
 <br>
 I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
