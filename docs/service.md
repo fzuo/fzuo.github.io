@@ -24,6 +24,8 @@
 
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec), 2024-2025
 
+- IEEE International Conference on Communications (ICC), 2027
+
 - IEEE Global Communications Conference (GLOBECOM), 2026
 
 - IEEE International Conference on Big Data (BigData)(Main Track & Industrial and Government Track), 2026
@@ -46,6 +48,8 @@
 - EAI International Conference on Mobile Computing, Applications and Services (MobiCASE): Program Committee Co-Chair, 2026
 
 - IEEE International Congress on Intelligent and Service-Oriented Systems Engineering (CISOSE): Organization Committee & Publicity Co-Chair, 2027
+
+- IEEE International Conference on JointCloud Computing (JCC): Program Committee Co-Chair, 2027.
 
 - IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
