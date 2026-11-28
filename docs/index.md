@@ -58,7 +58,7 @@ I am the graduate program director at the department of computer science. If you
 
 - I will be working on the program committees of NDSS'27, ASIACCS'27, ICC'27, and SecureComm'27.
 
-- I will serve as the PC Co-Chair of <a href="https://ieee-cisose-congress.org/2027/jcc/committees/">18th IEEE International Conference on JointCloud Computing (JCC)</a>. This CCF-ranked conference will be held in Oxford, UK (June 8-11, 2027).
+- I will serve as the PC Co-Chair of <a href="https://ieee-cisose-congress.org/2027/jcc/committees/">18th IEEE International Conference on JointCloud Computing (JCC 2027)</a>, which is ranked by CCF. We look forward to your innovative research submissions and meeting you in Oxford, UK.
 
 
 ## Past Activities
