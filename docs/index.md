@@ -58,7 +58,7 @@ I am the graduate program director at the department of computer science. If you
 
 - I will be working on the program committees of NDSS'27, ASIACCS'27, ICC'27, and SecureComm'27.
 
-- I will join IEEE CISOSE 2027 organization committee and serve as Publicity Co-Chair. This international congress will be held in Oxford, UK (June 8-11, 2027).
+- I will serve as the PC Co-Chair of <a href="https://ieee-cisose-congress.org/2027/jcc/committees/">18th IEEE International Conference on JointCloud Computing (JCC)</a>. This CCF-ranked conference will be held in Oxford, UK (June 8-11, 2027).
 
 
 ## Past Activities
@@ -129,5 +129,7 @@ I am the graduate program director at the department of computer science. If you
 - <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration</a>, Fall semester
 
 - <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
+
+- join IEEE CISOSE 2027 organization committee and serve as Publicity Co-Chair. 
 
 -->
